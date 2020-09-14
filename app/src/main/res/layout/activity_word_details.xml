@@ -26,7 +26,7 @@
                 android:contentDescription="@string/app_name"
                 android:scaleType="centerCrop"
                 android:transitionName="food_image_transition"
-                android:src="@drawable/category_placeholder"
+                android:src="@drawable/desert"
                 app:layout_collapseMode="parallax" />
 
             <androidx.appcompat.widget.Toolbar

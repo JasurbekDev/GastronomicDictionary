@@ -9,12 +9,15 @@ import androidx.lifecycle.ViewModelProviders;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import android.content.Context;
 import android.content.Intent;
 import android.os.Build;
 import android.os.Bundle;
+import android.os.IBinder;
 import android.view.View;
 import android.view.ViewGroup;
 
+import android.view.inputmethod.InputMethodManager;
 import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
@@ -54,7 +57,33 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 adapter.setCategories(categories);
             }
         });
+
+//        searchView.clearFocus();
     }
+
+    @Override
+    protected void onStart() {
+        super.onStart();
+//        hideKeyboard(this, searchView.getApplicationWindowToken());
+//        toggleKeyboard(this);
+    }
+
+//    public static void hideKeyboard(Context context, IBinder token) {
+//        InputMethodManager imm = (InputMethodManager) context
+//                .getSystemService(Context.INPUT_METHOD_SERVICE);
+//        if(imm.isActive()){
+//            imm.hideSoftInputFromWindow(token,0);
+//        }
+//    }
+
+//    public static void toggleKeyboard(Context context) {
+//        InputMethodManager imm = (InputMethodManager) context
+//                .getSystemService(Context.INPUT_METHOD_SERVICE);
+//        if (imm.isActive()) {
+//            imm.toggleSoftInput(InputMethodManager.SHOW_IMPLICIT,
+//                    InputMethodManager.HIDE_NOT_ALWAYS);
+//        }
+//    }
 
     public static void setSearchViewOnClickListener(View v, View.OnClickListener listener) {
         if (v instanceof ViewGroup) {

@@ -32,7 +32,7 @@
                 android:layout_gravity="center"
                 android:scaleType="centerCrop"
                 android:transitionName="food_image_transition"
-                android:src="@drawable/category_placeholder" />
+                android:src="@drawable/desert" />
 
         </FrameLayout>
 

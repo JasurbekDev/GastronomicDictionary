@@ -37,6 +37,7 @@ public class SearchActivity extends AppCompatActivity implements WordListAdapter
     private SearchViewModel viewModel;
     private WordListBottomSheetDialog bottomSheet;
     private int sdk = Build.VERSION.SDK_INT;
+    private TextView wordNotFoundTextView;
 
 
     @Override
@@ -52,6 +53,9 @@ public class SearchActivity extends AppCompatActivity implements WordListAdapter
 
         searchView = findViewById(R.id.searchActivitySearchView);
         searchActivityRecyclerView = findViewById(R.id.searchActivityRecyclerView);
+        wordNotFoundTextView = findViewById(R.id.wordNotFoundTextView);
+
+        wordNotFoundTextView.setVisibility(View.GONE);
 
         bottomSheet = new WordListBottomSheetDialog();
         WordDetailsActivity.bottomSheet = bottomSheet;
@@ -64,7 +68,7 @@ public class SearchActivity extends AppCompatActivity implements WordListAdapter
 //        wordList.add(new Word("Category Name 1", "Category Name 1", "Category Name 1", "Salom5", "Привет", "Hello"));
 //        wordList.add(new Word("Category Name 1", "Category Name 1", "Category Name 1", "Salom6", "Привет", "Hello"));
 
-        adapter = new WordListAdapter(new ArrayList<Word>(), this, true);
+        adapter = new WordListAdapter(new ArrayList<Word>(), this, true, wordNotFoundTextView);
         searchActivityRecyclerView.setLayoutManager(new LinearLayoutManager(this));
         searchActivityRecyclerView.setAdapter(adapter);
 

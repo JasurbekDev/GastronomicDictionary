@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="match_parent"
-    android:layout_height="150dp"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:foreground="?android:selectableItemBackground"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    android:layout_marginBottom="15dp"
     android:clickable="true"
     android:focusable="true"
+    android:foreground="?android:selectableItemBackground"
     app:cardCornerRadius="8dp"
-    android:layout_marginBottom="15dp"
     app:cardElevation="10dp">
 
     <LinearLayout
@@ -29,14 +29,14 @@
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1"
-            android:paddingLeft="10dp"
-            android:paddingRight="10dp"
-            android:paddingTop="6dp"
-            android:paddingBottom="6dp"
-            android:maxLines="2"
             android:ellipsize="end"
             android:gravity="center"
-            tools:text="This is a category name"/>
+            android:maxLines="1"
+            android:paddingLeft="10dp"
+            android:paddingTop="6dp"
+            android:paddingRight="10dp"
+            android:paddingBottom="6dp"
+            tools:text="This is a category name" />
 
     </LinearLayout>
 

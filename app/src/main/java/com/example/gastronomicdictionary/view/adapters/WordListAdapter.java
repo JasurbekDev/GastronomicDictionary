@@ -16,6 +16,7 @@ import com.example.gastronomicdictionary.R;
 import com.example.gastronomicdictionary.data.models.Word;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collection;
 import java.util.List;
 
@@ -24,11 +25,19 @@ public class WordListAdapter extends RecyclerView.Adapter<WordListAdapter.ViewHo
     private List<Word> wordListAll = new ArrayList<>();
     private WordListAdapterListener wordListAdapterListener;
     private boolean isInSearchActivity;
+    private TextView wordNotFoundTextView;
 
     public WordListAdapter(List<Word> wordList, WordListAdapterListener wordListAdapterListener, boolean isInSearchActivity) {
         this.wordList = wordList;
         this.wordListAdapterListener = wordListAdapterListener;
         this.isInSearchActivity = isInSearchActivity;
+    }
+
+    public WordListAdapter(List<Word> wordList, WordListAdapterListener wordListAdapterListener, boolean isInSearchActivity, TextView wordNotFoundTextView) {
+        this.wordList = wordList;
+        this.wordListAdapterListener = wordListAdapterListener;
+        this.isInSearchActivity = isInSearchActivity;
+        this.wordNotFoundTextView = wordNotFoundTextView;
     }
 
     @NonNull
@@ -54,6 +63,10 @@ public class WordListAdapter extends RecyclerView.Adapter<WordListAdapter.ViewHo
         notifyDataSetChanged();
     }
 
+    public List<Word> getWordList() {
+        return wordList;
+    }
+
     @Override
     public Filter getFilter() {
         return filter;
@@ -67,8 +80,12 @@ public class WordListAdapter extends RecyclerView.Adapter<WordListAdapter.ViewHo
                 filterList.addAll(wordListAll);
             } else {
                 for (Word word : wordListAll) {
-                    if (word.getUz().toLowerCase().contains(charSequence.toString().toLowerCase())) {
-                        filterList.add(word);
+                    int queryLength = charSequence.toString().length();
+                    if (queryLength <= word.getUz().length()) {
+                        String wordSubstring = word.getUz().substring(0, queryLength);
+                        if (wordSubstring.toLowerCase().equals(charSequence.toString().toLowerCase())) {
+                            filterList.add(word);
+                        }
                     }
                 }
             }
@@ -83,6 +100,11 @@ public class WordListAdapter extends RecyclerView.Adapter<WordListAdapter.ViewHo
         protected void publishResults(CharSequence charSequence, FilterResults filterResults) {
             wordList.clear();
             wordList.addAll((Collection<? extends Word>) filterResults.values);
+            if (wordList.size() == 0) {
+                wordNotFoundTextView.setVisibility(View.VISIBLE);
+            } else {
+                wordNotFoundTextView.setVisibility(View.GONE);
+            }
             notifyDataSetChanged();
         }
     };
