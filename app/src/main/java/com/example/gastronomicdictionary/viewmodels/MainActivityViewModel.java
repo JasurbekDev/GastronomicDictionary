@@ -1,0 +1,28 @@
+package com.example.gastronomicdictionary.viewmodels;
+
+import android.app.Application;
+
+import androidx.annotation.NonNull;
+import androidx.lifecycle.AndroidViewModel;
+import androidx.lifecycle.LiveData;
+import androidx.lifecycle.ViewModel;
+
+import com.example.gastronomicdictionary.data.WordRepositoryImpl;
+import com.example.gastronomicdictionary.data.models.Category;
+
+import java.util.List;
+
+public class MainActivityViewModel extends AndroidViewModel {
+    private WordRepositoryImpl wordRepository;
+    private LiveData<List<Category>> categories;
+
+    public MainActivityViewModel(@NonNull Application application) {
+        super(application);
+        wordRepository = new WordRepositoryImpl(application);
+        categories = wordRepository.getCategoryNames();
+    }
+
+    public LiveData<List<Category>> getCategoryNames() {
+        return categories;
+    }
+}

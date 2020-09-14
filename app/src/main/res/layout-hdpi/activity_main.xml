@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    tools:context=".view.activities.MainActivity">
+
+    <!--    <include-->
+    <!--        android:id="@+id/include"-->
+    <!--        layout="@layout/custom_toolbar"-->
+    <!--        android:layout_width="0dp"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        app:layout_constraintEnd_toEndOf="parent"-->
+    <!--        app:layout_constraintStart_toStartOf="parent"-->
+    <!--        app:layout_constraintTop_toTopOf="parent" />-->
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="100dp"
+        android:layout_height="0dp"
+        android:fadingEdgeLength="10dp"
+        android:requiresFadingEdge="horizontal"
+        android:scaleType="centerCrop"
+        android:paddingRight="20dp"
+        android:src="@drawable/middle_bg_faded"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintHorizontal_chainStyle="packed"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="100dp"
+        android:layout_height="0dp"
+        android:fadingEdgeLength="10dp"
+        android:requiresFadingEdge="horizontal"
+        android:scaleType="centerCrop"
+        android:paddingLeft="20dp"
+        android:src="@drawable/middle_bg_faded_right"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintHorizontal_chainStyle="packed"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <!--    <ImageView-->
+    <!--        android:id="@+id/imageView"-->
+    <!--        android:layout_width="240dp"-->
+    <!--        android:layout_height="0dp"-->
+    <!--        android:fadingEdgeLength="10dp"-->
+    <!--        android:requiresFadingEdge="horizontal"-->
+    <!--        android:scaleType="centerCrop"-->
+    <!--        android:paddingLeft="20dp"-->
+    <!--        android:paddingRight="20dp"-->
+    <!--        android:src="@drawable/middle_bg"-->
+    <!--        app:layout_constraintBottom_toBottomOf="parent"-->
+    <!--        app:layout_constraintEnd_toEndOf="@+id/categoryRecyclerView"-->
+    <!--        app:layout_constraintHorizontal_bias="0.5"-->
+    <!--        app:layout_constraintHorizontal_chainStyle="packed"-->
+    <!--        app:layout_constraintStart_toStartOf="parent"-->
+    <!--        app:layout_constraintTop_toTopOf="parent" />-->
+
+    <!--    <ImageView-->
+    <!--        android:id="@+id/imageView2"-->
+    <!--        android:layout_width="100dp"-->
+    <!--        android:layout_height="0dp"-->
+    <!--        android:fadingEdgeLength="10dp"-->
+    <!--        android:requiresFadingEdge="horizontal"-->
+    <!--        android:scaleType="centerCrop"-->
+    <!--        android:src="@drawable/main_bg"-->
+    <!--        app:layout_constraintEnd_toEndOf="parent"-->
+    <!--        app:layout_constraintHorizontal_bias="0.5"-->
+    <!--        app:layout_constraintHorizontal_chainStyle="spread"-->
+    <!--        app:layout_constraintStart_toEndOf="@+id/imageView"-->
+    <!--        app:layout_constraintTop_toTopOf="parent"-->
+    <!--        app:layout_constraintBottom_toBottomOf="parent"/>-->
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/wordListRecyclerView"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:requiresFadingEdge="vertical"
+        android:fadingEdgeLength="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        tools:listitem="@layout/category_card" />
+
+    <androidx.appcompat.widget.SearchView
+        android:id="@+id/wordListSearchView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/search_view_background"
+        android:elevation="8dp"
+        app:iconifiedByDefault="false"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:queryBackground="@android:color/transparent"
+        android:transitionName="search_transition"
+        app:queryHint="Search" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
