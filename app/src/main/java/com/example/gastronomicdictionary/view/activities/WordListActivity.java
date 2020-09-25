@@ -56,7 +56,7 @@ public class WordListActivity extends AppCompatActivity implements WordListAdapt
         Intent intent = getIntent();
         String categoryName = intent.getStringExtra("categoryName");
 
-        adapter = new WordListAdapter(new ArrayList<Word>(), this, false);
+        adapter = new WordListAdapter(this, new ArrayList<Word>(), this, false);
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
         DividerItemDecoration dividerItemDecoration = new DividerItemDecoration(this, LinearLayoutManager.VERTICAL);
         recyclerView.addItemDecoration(dividerItemDecoration);
@@ -93,6 +93,12 @@ public class WordListActivity extends AppCompatActivity implements WordListAdapt
         bundle.putString("wordUz", wordUz);
         bundle.putString("wordRu", wordRu);
         bundle.putString("wordEn", wordEn);
+
+        String formattedName = SearchActivity.getFormattedName(wordEn);
+        String wordNameEn = Integer.toString(getResources().getIdentifier(formattedName, "drawable", getPackageName())).toLowerCase();
+
+        bundle.putString("wordImageId", wordNameEn);
+
         bottomSheet.setArguments(bundle);
         bottomSheet.show(getSupportFragmentManager(), "wordListBottomSheet");
     }
@@ -128,22 +134,25 @@ public class WordListActivity extends AppCompatActivity implements WordListAdapt
     }
 
     @Override
-    public void onBottomSheetButtonClick(ImageView wordImage, String wordUz, String wordRu, String wordEn, TextView wordRuTextView, TextView wordEnTextView) {
+    public void onBottomSheetButtonClick(ImageView wordImage, int wordImageId, String wordUz, String wordRu, String wordEn, TextView wordRuTextView, TextView wordEnTextView) {
         Intent intent = new Intent(WordListActivity.this, WordDetailsActivity.class);
 //        ActivityOptionsCompat options = ActivityOptionsCompat.makeSceneTransitionAnimation(WordListActivity.this, wordImage, ViewCompat.getTransitionName(wordImage));
         intent.putExtra("wordUz", wordUz);
         intent.putExtra("wordRu", wordRu);
         intent.putExtra("wordEn", wordEn);
+        intent.putExtra("wordImageId", Integer.toString(wordImageId));
 
-        if (sdk >= Build.VERSION_CODES.LOLLIPOP) {
-            Pair wordImageAnim = Pair.create(wordImage, ViewCompat.getTransitionName(wordImage));
-            Pair wordRuAnim = Pair.create(wordRuTextView, ViewCompat.getTransitionName(wordRuTextView));
-            Pair wordEnAnim = Pair.create(wordEnTextView, ViewCompat.getTransitionName(wordEnTextView));
-            ActivityOptions options = ActivityOptions.makeSceneTransitionAnimation(WordListActivity.this, wordImageAnim, wordRuAnim, wordEnAnim);
-            startActivity(intent, options.toBundle());
-        } else {
-            startActivity(intent);
-        }
+
+//        if (sdk >= Build.VERSION_CODES.LOLLIPOP) {
+//            Pair wordImageAnim = Pair.create(wordImage, ViewCompat.getTransitionName(wordImage));
+//            Pair wordRuAnim = Pair.create(wordRuTextView, ViewCompat.getTransitionName(wordRuTextView));
+//            Pair wordEnAnim = Pair.create(wordEnTextView, ViewCompat.getTransitionName(wordEnTextView));
+//            ActivityOptions options = ActivityOptions.makeSceneTransitionAnimation(WordListActivity.this, wordImageAnim, wordRuAnim, wordEnAnim);
+//            startActivity(intent, options.toBundle());
+//        } else {
+//            startActivity(intent);
+//        }
+        startActivity(intent);
 
 //                bottomSheet.dismiss();
 //        new Handler().postDelayed(new Runnable() {

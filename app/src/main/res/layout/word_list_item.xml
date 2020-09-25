@@ -6,7 +6,15 @@
     android:background="?android:selectableItemBackground"
     android:clickable="true"
     android:focusable="true"
-    android:orientation="vertical">
+    android:orientation="horizontal">
+
+<!--    <ImageView-->
+<!--        android:id="@+id/wordListImage"-->
+<!--        android:layout_width="40dp"-->
+<!--        android:layout_height="40dp"-->
+<!--        android:scaleType="centerCrop"-->
+<!--        android:layout_gravity="center_vertical"-->
+<!--        android:src="@drawable/ic_launcher_background" />-->
 
     <TextView
         android:id="@+id/wordTextView"

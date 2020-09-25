@@ -1,11 +1,20 @@
 package com.example.gastronomicdictionary.view.adapters;
 
+import android.content.Context;
+import android.content.res.Resources;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
+import android.graphics.drawable.BitmapDrawable;
+import android.graphics.drawable.Drawable;
+import android.util.DisplayMetrics;
+import android.util.Log;
 import android.util.TypedValue;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Filter;
 import android.widget.Filterable;
+import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
@@ -14,6 +23,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.gastronomicdictionary.R;
 import com.example.gastronomicdictionary.data.models.Word;
+import com.example.gastronomicdictionary.view.activities.SearchActivity;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -26,14 +36,17 @@ public class WordListAdapter extends RecyclerView.Adapter<WordListAdapter.ViewHo
     private WordListAdapterListener wordListAdapterListener;
     private boolean isInSearchActivity;
     private TextView wordNotFoundTextView;
+    private Context mContext;
 
-    public WordListAdapter(List<Word> wordList, WordListAdapterListener wordListAdapterListener, boolean isInSearchActivity) {
+    public WordListAdapter(Context context, List<Word> wordList, WordListAdapterListener wordListAdapterListener, boolean isInSearchActivity) {
+        this.mContext = context;
         this.wordList = wordList;
         this.wordListAdapterListener = wordListAdapterListener;
         this.isInSearchActivity = isInSearchActivity;
     }
 
-    public WordListAdapter(List<Word> wordList, WordListAdapterListener wordListAdapterListener, boolean isInSearchActivity, TextView wordNotFoundTextView) {
+    public WordListAdapter(Context context, List<Word> wordList, WordListAdapterListener wordListAdapterListener, boolean isInSearchActivity, TextView wordNotFoundTextView) {
+        this.mContext = context;
         this.wordList = wordList;
         this.wordListAdapterListener = wordListAdapterListener;
         this.isInSearchActivity = isInSearchActivity;
@@ -44,7 +57,7 @@ public class WordListAdapter extends RecyclerView.Adapter<WordListAdapter.ViewHo
     @Override
     public ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
         View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.word_list_item, parent, false);
-        return new ViewHolder(view, wordListAdapterListener, isInSearchActivity);
+        return new ViewHolder(mContext, view, wordListAdapterListener, isInSearchActivity);
     }
 
     @Override
@@ -110,31 +123,56 @@ public class WordListAdapter extends RecyclerView.Adapter<WordListAdapter.ViewHo
     };
 
     public static class ViewHolder extends RecyclerView.ViewHolder {
+        private static final String TAG = "WordListAdapter";
         private TextView wordTextView;
         private WordListAdapterListener wordListAdapterListener;
         private boolean isInSearchActivity;
+        private ImageView wordListImage;
+        private Context mContext;
 
-        public ViewHolder(@NonNull View itemView, WordListAdapterListener wordListAdapterListener, boolean isInSearchActivity) {
+        public ViewHolder(Context context, @NonNull View itemView, WordListAdapterListener wordListAdapterListener, boolean isInSearchActivity) {
             super(itemView);
+            this.mContext = context;
             this.wordListAdapterListener = wordListAdapterListener;
             this.isInSearchActivity = isInSearchActivity;
 
             wordTextView = itemView.findViewById(R.id.wordTextView);
+//            wordListImage = itemView.findViewById(R.id.wordListImage);
         }
 
         public void bind(final Word word) {
-            if (getAdapterPosition() == 0) {
-                int firstWordMarginTop;
-                if (isInSearchActivity) {
-                    firstWordMarginTop = dpToPixel(80);
-                } else {
-                    firstWordMarginTop = dpToPixel(120);
-                }
-                LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT);
-                params.setMargins(0, firstWordMarginTop, 0, 0);
-                itemView.setLayoutParams(params);
-            }
+//            if (getAdapterPosition() == 0) {
+//                int firstWordMarginTop;
+//                if (isInSearchActivity) {
+//                    firstWordMarginTop = dpToPixel(80);
+//                } else {
+//                    firstWordMarginTop = dpToPixel(120);
+//                }
+//                LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT);
+//                params.setMargins(0, firstWordMarginTop, 0, 0);
+//                itemView.setLayoutParams(params);
+//            }
             wordTextView.setText(word.getUz());
+
+            String formattedName = SearchActivity.getFormattedName(word.getEn());
+
+//            try {
+//                if (mContext.getResources().getDrawable(mContext.getResources().getIdentifier(formattedName, "drawable", mContext.getPackageName())) != null) {
+//                    BitmapFactory.Options o = new BitmapFactory.Options();
+//                    o.inTargetDensity = DisplayMetrics.DENSITY_DEFAULT;
+//                    Bitmap bmp = BitmapFactory.decodeResource(mContext.getResources(),
+//                            mContext.getResources().getIdentifier(formattedName, "drawable", mContext.getPackageName()), o);
+//                    int w = bmp.getWidth();
+//                    int h = bmp.getHeight();
+//
+//                    Bitmap resBitmap = ((BitmapDrawable) mContext.getResources().getDrawable(mContext.getResources().getIdentifier(formattedName, "drawable", mContext.getPackageName()))).getBitmap();
+//                    Bitmap scaled = Bitmap.createScaledBitmap(resBitmap, w / 15, h / 15, true);
+//                    wordListImage.setImageBitmap(scaled);
+//                }
+//            } catch (Resources.NotFoundException e) {
+//                Log.e(TAG, "bind: ", e);
+//            }
+
             itemView.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {

@@ -23,16 +23,17 @@ public class WordRepositoryImpl implements WordRepository {
     public WordRepositoryImpl(Application application) {
         wordDao = WordDatabase.getInstance(application).wordDao();
         List<Category> names = new ArrayList<>();
-        names.add(new Category("Category Name 1", R.drawable.desert));
-        names.add(new Category("Category Name 2", R.drawable.desert));
-        names.add(new Category("Category Name 3", R.drawable.desert));
-        names.add(new Category("Category Name 4", R.drawable.desert));
-        names.add(new Category("Category Name 5", R.drawable.desert));
-        names.add(new Category("Category Name 6", R.drawable.desert));
-        names.add(new Category("Category Name 7", R.drawable.desert));
-        names.add(new Category("Category Name 8", R.drawable.desert));
-        names.add(new Category("Category Name 9", R.drawable.desert));
-        names.add(new Category("Category Name 10", R.drawable.desert));
+        names.add(new Category("Category Name 1", R.drawable.ic_launcher_background));
+        names.add(new Category("Category Name 2", R.drawable.ic_launcher_background));
+        names.add(new Category("Category Name 3", R.drawable.ic_launcher_background));
+        names.add(new Category("Category Name 4", R.drawable.ic_launcher_background));
+        names.add(new Category("Category Name 5", R.drawable.ic_launcher_background));
+        names.add(new Category("Category Name 6", R.drawable.ic_launcher_background));
+        names.add(new Category("Category Name 7", R.drawable.ic_launcher_background));
+        names.add(new Category("Category Name 8", R.drawable.ic_launcher_background));
+        names.add(new Category("Category Name 9", R.drawable.ic_launcher_background));
+        names.add(new Category("Category Name 10", R.drawable.ic_launcher_background));
+
         categories.postValue(names);
     }
 

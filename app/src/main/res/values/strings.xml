@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Gastronomic Dictionary</string>
     <string name="dummy_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam aspernatur commodi cumque deleniti, dicta distinctio dolor enim eum fuga impedit itaque molestiae mollitia nemo officia quidem repellat repudiandae, sed ut! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi ea eligendi eos eveniet expedita nisi odio odit quas quasi, reprehenderit repudiandae rerum veritatis voluptates. Aliquid cupiditate maiores obcaecati odio tempora. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum, maxime perspiciatis. A adipisci blanditiis commodi, eum, ex expedita illum laborum necessitatibus odit quam rem sapiente sunt totam unde vero. Delectus!</string>
-    <string name="russian">Russian: </string>
-    <string name="english">English: </string>
+    <string name="russian">Russian</string>
+    <string name="english">English</string>
+    <string name="uzbek">Uzbek</string>
 </resources>

@@ -7,14 +7,17 @@ import androidx.appcompat.widget.Toolbar;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.MenuItem;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.example.gastronomicdictionary.R;
 import com.example.gastronomicdictionary.view.WordListBottomSheetDialog;
 
 public class WordDetailsActivity extends AppCompatActivity {
+    private TextView wordUzTextView;
     private TextView wordRuTextView;
     private TextView wordEnTextView;
+    private ImageView wordDetailsImage;
     public static WordListBottomSheetDialog bottomSheet;
 
     @Override
@@ -22,8 +25,10 @@ public class WordDetailsActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_word_details);
 
+        wordUzTextView = findViewById(R.id.detailsWordUz);
         wordRuTextView = findViewById(R.id.detailsWordRu);
         wordEnTextView = findViewById(R.id.detailsWordEn);
+        wordDetailsImage = findViewById(R.id.wordDetailsImage);
 
         Toolbar toolbar = findViewById(R.id.detailsToolBar);
         setSupportActionBar(toolbar);
@@ -35,9 +40,12 @@ public class WordDetailsActivity extends AppCompatActivity {
         String wordUz = intent.getStringExtra("wordUz");
         String wordRu = intent.getStringExtra("wordRu");
         String wordEn = intent.getStringExtra("wordEn");
+        String wordImageId = intent.getStringExtra("wordImageId");
 
+        wordUzTextView.setText(wordUz);
         wordRuTextView.setText(wordRu);
         wordEnTextView.setText(wordEn);
+        wordDetailsImage.setImageResource(Integer.parseInt(wordImageId));
 
         toolbar.setTitle(wordUz);
     }

@@ -1,0 +1,6370 @@
+[
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Пишлоқ",
+  "ru":  "Сыр",
+  "en":  "Cheese"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Қўлбола пишлоқ",
+  "ru":  "Сыр домашнего приготовления",
+  "en":  "Artisan cheese"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Айрон",
+  "ru":  "Айран",
+  "en":  "Ayran"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Ҳаворанг пишлоқ",
+  "ru":  "Голубой сыр",
+  "en":  "Blue cheese"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Сариёғ",
+  "ru":  "Масло",
+  "en":  "Butter"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Сариёғ",
+  "ru":  "Топленое масло",
+  "en":  "Butterfat"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Ёғсиз қатиқ",
+  "ru":  "Пахта (обезжиренные сливки)",
+  "en":  "Buttermilk"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Казеин (сутда бўладиган оқсил модда)",
+  "ru":  "Казеин",
+  "en":  "Casein"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Эчки сути",
+  "ru":  "Козье молоко",
+  "en":  "Chevre"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Қаймоқ",
+  "ru":  "Взбитые сливки",
+  "en":  "Clotted cream"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Қуюлтирилган сут",
+  "ru":  "Сгущенное молоко",
+  "en":  "Condensed milk"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Қаймоқ",
+  "ru":  "Сливки",
+  "en":  "Cream"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Қаймоқли пишлоқ",
+  "ru":  "Сливочный сыр",
+  "en":  "Cream cheese"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Крем-фреш",
+  "ru":  "Крем-фреш",
+  "en":  "Cream fraiche"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Творог",
+  "ru":  "Творог",
+  "en":  "Curd"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Ёғли қаймоқ",
+  "ru":  "Жирные сливки (около 50% жирности)",
+  "en":  "Double cream"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Қуруқ сут",
+  "ru":  "Сухое молоко",
+  "en":  "Dried milk"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Қуюқ сут",
+  "ru":  "Сгущенное молоко",
+  "en":  "Evaporated milk"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Яхна йогурт",
+  "ru":  "Замороженный йогурт",
+  "en":  "Frozen yoghurt"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Мевали йогурт",
+  "ru":  "Фруктовый йогурт",
+  "en":  "Fruit yoghurt"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Тоза сут (сув қўшилмаган)",
+  "ru":  "Цельное молоко",
+  "en":  "Full-cream milk"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Эчки сутли пишлоқ",
+  "ru":  "Козий сыр",
+  "en":  "Goat’s cheese"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Янги тайёрланган пишлоқ",
+  "ru":  "Молодой сыр",
+  "en":  "Green cheese"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Ўртача ёғли қаймоқ",
+  "ru":  "Сливки низкой жирности",
+  "en":  "Halfcream"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Жуда ёғли қаймоқ",
+  "ru":  "Густой крем (около 50% жирности)",
+  "en":  "Heavy cream"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Сут аралаштирилган қаймоқ",
+  "ru":  "Гомогенизированное молоко",
+  "en":  "Homogenised milk"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Музқаймоқ",
+  "ru":  "Мороженое",
+  "en":  "Icecream"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Қатиқ",
+  "ru":  "Кефир",
+  "en":  "Kefir"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Қимиз",
+  "ru":  "Кумыс",
+  "en":  "Koumiss"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Лактоза (сут шакари)",
+  "ru":  "Лактоза (молочный сахар)",
+  "en":  "Lactose"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Ўртача ёғли қаймоқ",
+  "ru":  "Сливки низкой жирности",
+  "en":  "Light cream"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Ёғи кам пишлоқ",
+  "ru":  "Сыр с низким содержанием жира",
+  "en":  "Low-fat cheese"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Ёғи кам сут",
+  "ru":  "Полуобезжиренное молоко (жирность от 1 до 2%)",
+  "en":  "Low-fat milk"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Сут",
+  "ru":  "Молоко",
+  "en":  "Milk"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Сутли шейк, Ширин сут (мева ёки шоколад қўшилган)",
+  "ru":  "Молочный шейк",
+  "en":  "Milk shake"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Шакарли сут",
+  "ru":  "Молочный сахар",
+  "en":  "Milk sugar"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Пастеризатсия қилинган сут",
+  "ru":  "Пастеризованное молоко",
+  "en":  "Pasteurised milk"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Эритилган пишлоқ",
+  "ru":  "Плавленый сыр",
+  "en":  "Processed spread cheese"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Ярим ёғсизлантирилган сут",
+  "ru":  "Полуобезжиренное молоко",
+  "en":  "Semi-skimmed milk"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Қўй сутидан таёрланган йогурт",
+  "ru":  "Овечий йогурт",
+  "en":  "Sheep’s yogurt"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Қўй сути",
+  "ru":  "Овечье молоко",
+  "en":  "Sheep’s milk"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Сигир сути",
+  "ru":  "Коровье молоко",
+  "en":  "Cow’s milk"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Совлиқ қўй сути",
+  "ru":  "Овечье молоко",
+  "en":  "Ewe’s milk"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Эчки сути",
+  "ru":  "Козье молоко",
+  "en":  "Goat’s milk"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Қаймоқ",
+  "ru":  "Сливки",
+  "en":  "Single cream"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Сметана",
+  "ru":  "Сметана",
+  "en":  "Sour cream"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Ёғсизлантирилган сут",
+  "ru":  "Обезжиренное молоко",
+  "en":  "Skimmed milk"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Дудланган пишлоқ",
+  "ru":  "Копченый сыр",
+  "en":  "Smoked cheese"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Қуюқ йогурт",
+  "ru":  "Густой йогурт",
+  "en":  "Strained yoghurt"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Стерилизация қилинган сут",
+  "ru":  "Стерилизованное молоко",
+  "en":  "Sterilised milk"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Ширин қуюлтирилган сут",
+  "ru":  "Сладкое сгущенное молоко",
+  "en":  "Sweetened condensed milk"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Кўпиртирилган қаймоқ",
+  "ru":  "Взбитые сливки",
+  "en":  "Whipped cream"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Зардоб",
+  "ru":  "Сыворотка",
+  "en":  "Whey"
+ },
+ {
+  "category_uz": "Пишлоқ ва сут маҳсулотлари",
+  "category_ru": "Сыры и молочные продукты",
+  "category_en": "Cheeses and dairy products",
+  "uz":  "Сигир сутидан тайёрланган бринза",
+  "ru":  "Брынза из коровьего молока",
+  "en":  "White brined cow’s cheese"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Илдиз мевали ўсимликлар",
+  "ru":  "Корнеплоды",
+  "en":  "Root vegetables"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Сабзавот",
+  "ru":  "Овощи",
+  "en":  "Vegetables"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Артишок (ўтсимон полиз ўсимлиги)",
+  "ru":  "Артишок",
+  "en":  "Artichoke"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Руккола (карамдошлар оиласига мансуб бир йиллик ўсимлик)",
+  "ru":  "Руккола",
+  "en":  "Arugula"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Осиё бақлажони",
+  "ru":  "Азиатский баклажан",
+  "en":  "Asian eggplant"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Сарсабил (йиллик сабзавот ўсимлиги)",
+  "ru":  "Спаржа",
+  "en":  "Asparagus"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Бақлажон",
+  "ru":  "Баклажан",
+  "en":  "Aubergine"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Цикорий карами",
+  "ru":  "Цикорий",
+  "en":  "Batavia endive"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Помидорнинг этли, катта тури (юсуповский)",
+  "ru":  "Бычий, большой помидор",
+  "en":  "Beef tomato"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Лавлаги",
+  "ru":  "Свекла",
+  "en":  "Beet"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Булғор қалампири",
+  "ru":  "Болгарский перец, сладкий перец",
+  "en":  "Bell pepper or bre green pepper"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Браункол, хашаки карам",
+  "ru":  "Браунколь, кормовая капуста",
+  "en":  "Borecole also kale"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Брокколи",
+  "ru":  "Брокколи",
+  "en":  "Broccoli"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Брокколини (бандлари узун броколи)",
+  "ru":  "Брокколини",
+  "en":  "Broccolini"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Брюссел карами",
+  "ru":  "Брюссельская капуста",
+  "en":  "Brussels sprouts"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Латук карами (карамнинг гул шаклидаги ва усти ялтироқ тури)",
+  "ru":  "Латук посевной",
+  "en":  "Butterhead lettuce"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Узун ошқовоқ",
+  "ru":  "Тыква (мускатная)",
+  "en":  "Butternut squash"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Карам",
+  "ru":  "Капуста",
+  "en":  "Cabbage"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Салат барги",
+  "ru":  "Листья салата",
+  "en":  "Cabbage lettuce"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Сабзи",
+  "ru":  "Морковь",
+  "en":  "Carrot"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Маниок, юкка (агавасимонлар оиласига мансуб яшил ўсимлик)",
+  "ru":  "Маниок съедобный",
+  "en":  "Cassava also yucca or manioc"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Гулкарам",
+  "ru":  "Цветная капуста",
+  "en":  "Cauliflower"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Селдерей уруғи",
+  "ru":  "Семена сельдерея",
+  "en":  "Celeriac"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Бандли селдерей",
+  "ru":  "Черешковый сельдерей",
+  "en":  "Celery"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Олча помидор",
+  "ru":  "Помидоры черри",
+  "en":  "Cherry tomato"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Цикорий карами",
+  "ru":  "Цикорий",
+  "en":  "Chicory"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Барра (кўк )пиёз",
+  "ru":  "Зеленый лук",
+  "en":  "Chives"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Маккажўхори сўтаси",
+  "ru":  "Кукурузный початок",
+  "en":  "Corn on the cob"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Корнишон (сиркалаш учун узилган майда усти ғадир-будр бодринг)",
+  "ru":  "Корнишоны",
+  "en":  "Cornichon"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Ромен (салат барги)",
+  "ru":  "Кос-латук(салат ромэн)",
+  "en":  "Cos lettuce also ame romaine lettuce"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Кабачки (қовоқнинг тури)",
+  "ru":  "Кабачки или цуккини",
+  "en":  "Courgette also ame zucchini"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Бодринг",
+  "ru":  "Огурец",
+  "en":  "Cucumber"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Бақлажон",
+  "ru":  "Баклажан",
+  "en":  "Eggplant also bre aubergine"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Эскарол (салат учун ишлатиладиган сабзавот)",
+  "ru":  "Эскароль (салатный овощ)",
+  "en":  "Escarole"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Арпабодиён (соябон гулдошлар оиласига мансуб эфир мойли доривор ўсимлик)",
+  "ru":  "Фенхель или сладкий укроп",
+  "en":  "Fennel"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Қўзоқли ловия",
+  "ru":  "Стручковая фасоль",
+  "en":  "French bean"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Саримсоқ пиёз",
+  "ru":  "Чеснок",
+  "en":  "Garlic"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Сиркалаш учун узилган майда сапча бодринг)",
+  "ru":  "Мелкий огурец для маринования",
+  "en":  "Gherkin"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Кўк нўхат",
+  "ru":  "Зеленая фасоль",
+  "en":  "Green beans"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Фриссе (салат баргининг бир тури)",
+  "ru":  "Салат фриссе",
+  "en":  "Green frisse"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Кўк пиёз",
+  "ru":  "Зеленый лук",
+  "en":  "Green onion"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Қулмоқ, хмел (тутдошлар ёки тутгуллилар оиласига мансуб кўп йиллик чирмашиб ўсадиган ўсимлик)",
+  "ru":  "Хмель",
+  "en":  "Hop"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Ерқалампир",
+  "ru":  "Хрен",
+  "en":  "Horseradish"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Айсберг (салат баргининг бир тури)",
+  "ru":  "Салат айсберг",
+  "en":  "Iceberg lettuce"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Хашаки карам",
+  "ru":  "Кормовая (листовая) капуста",
+  "en":  "Kale also borecole"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Порей пиёзи",
+  "ru":  "Лук-порей",
+  "en":  "Leek 1"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Лимон ўт",
+  "ru":  "Лимонная трава",
+  "en":  "Lemon grass"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Салат барги",
+  "ru":  "Салат-латук",
+  "en":  "Lettuce"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Маниока (илдиз мевали ўсимлик)",
+  "ru":  "Маниока",
+  "en":  "Manioc"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Яшил йўл-йўл навли кабачки",
+  "ru":  "Сорт кабачков с зеленой полоской",
+  "en":  "Marrow"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Дайкон (карамдошлар оиласига мансуб 1 ёки 2 йиллик оқ турпсимон ўсимлик)",
+  "ru":  "Дайкон",
+  "en":  "Mooli"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Пекин карами",
+  "ru":  "Пекинская капуста",
+  "en":  "Napa cabbage also beijing cabbage"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Настурция, лотин чечаги",
+  "ru":  "Настурция",
+  "en":  "Nasturtium"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Окра (карамдошлар оиласига мансуб бир йиллик ўсимлик)",
+  "ru":  "Окра",
+  "en":  "Okra"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Пиёз",
+  "ru":  "Лук",
+  "en":  "Onion"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Олхўрисимон узунчоқ помидор",
+  "ru":  "Томат сливовидный",
+  "en":  "Plum tomatoes"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Картошка",
+  "ru":  "Картофель",
+  "en":  "Potato"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Қовоқ",
+  "ru":  "Тыква",
+  "en":  "Pumpkin"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Радиккио (қизил карамнинг тури)",
+  "ru":  "Радиккио( сорт красной капусты)",
+  "en":  "Radicchio"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Редиска",
+  "ru":  "Редиска",
+  "en":  "Radish"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Қизил карам",
+  "ru":  "Красная капуста",
+  "en":  "Red cabbage"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Қизил пиёз",
+  "ru":  "Красный лук",
+  "en":  "Red onion"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Саримсоқ пиёз",
+  "ru":  "Головка чеснока",
+  "en":  "Rocambole"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Руккола (карамдошлар оиласига мансуб бир йиллик ўсимлик)",
+  "ru":  "Руккола",
+  "en":  "Rocket salad also arugula"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Савой карами",
+  "ru":  "Савойская капуста",
+  "en":  "Savoy also savoy cabbage"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Кўк пиёз",
+  "ru":  "Зеленый лук",
+  "en":  "Scallion also green onions"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Денгиз ўтлари",
+  "ru":  "Морские водоросли",
+  "en":  "Seaweed"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Шаллот (қизил рангли пиёз тури)",
+  "ru":  "Лук-шалот",
+  "en":  "Shallot"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Исмалоқ",
+  "ru":  "Шпинат",
+  "en":  "Spinach"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Кўк пиёз",
+  "ru":  "Зеленый лук",
+  "en":  "Spring onions (ame green onions)"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Брюссел карами",
+  "ru":  "Брюссельская капуста",
+  "en":  "Sprout"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Қовоқ (қовоқдошлар оиласига мансуб ўсимликларнинг умумий номи)",
+  "ru":  "Тыква (обобщенное название растений из семейства тыквенных)",
+  "en":  "Squash"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Бандли селдерей",
+  "ru":  "Черешковый сельдерей (стебли сельдерея)",
+  "en":  "Stalk celery"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Брюква (шолғомсимон сабзавот)",
+  "ru":  "Брюква",
+  "en":  "Swede (ame rutabaga)"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Батат (жануб ўсимлигининг бир тури ва унинг картошка таъмли ширин илдиз меваси)",
+  "ru":  "Батат, сладкий картофель",
+  "en":  "Sweet potato (also yam, batat)"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Манголд (икки йиллик лавлаги ва исмалоқсимон ўсимлик)",
+  "ru":  "Мангольд",
+  "en":  "Swiss chard"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Таро (жануби-шарқий осиёда ўсадиган илдиз мевали ўсимлик)",
+  "ru":  "Таро (клубневое растение юго-восточной Азии)",
+  "en":  "Taro (also dasheen, coco, eddo)"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Помидор",
+  "ru":  "Томат, помидоры",
+  "en":  "Tomato"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Шолғом",
+  "ru":  "Репа",
+  "en":  "Turnip"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Ток барги",
+  "ru":  "Виноградные листья",
+  "en":  "Vine leaves"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Васаби (япон ер қалампири)",
+  "ru":  "Васаби; японский хрен",
+  "en":  "Wasabi (japanese horseradish)"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Сув кресси (карамдошлар оиласига мансуб кўпинча сувли жойда ўсувчи ўсимлик)",
+  "ru":  "Кресс водяной (жеруха, ключевой кресс, брункресс)",
+  "en":  "Watercress"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Оқ турп",
+  "ru":  "Белая редька",
+  "en":  "White radish"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Цикорий",
+  "ru":  "Цикорий (эндивий); Витлуф",
+  "en":  "Witloof (also belgian endive or french endive, or chicory)"
+ },
+ {
+  "category_uz": "Яшил сабзавотлар",
+  "category_ru": "Зеленые овощи",
+  "category_en": "Green vegetables",
+  "uz":  "Кабачка (қовоқнинг бир тури)",
+  "ru":  "Кабачок",	
+  "en":  "Zucchini (bre courgette)"
+ },
+ {
+  "category_uz": "Кўкатлар",
+  "category_ru": "Зелень",
+  "category_en": "Greens and herbs",
+  "uz":  "Беда",
+  "ru":  "Люцерна",
+  "en":  "Alfala"
+ },
+ {
+  "category_uz": "Кўкатлар",
+  "category_ru": "Зелень",
+  "category_en": "Greens and herbs",
+  "uz":  "Алое",
+  "ru":  "Алое",
+  "en":  "Aloe"
+ },
+ {
+  "category_uz": "Кўкатлар",
+  "category_ru": "Зелень",
+  "category_en": "Greens and herbs",
+  "uz":  "Руккола",
+  "ru":  "Руккола",
+  "en":  "Arugula (rocket)"
+ },
+ {
+  "category_uz": "Кўкатлар",
+  "category_ru": "Зелень",
+  "category_en": "Greens and herbs",
+  "uz":  "Райҳон",
+  "ru":  "Базилик",
+  "en":  "Basil"
+ },
+ {
+  "category_uz": "Кўкатлар",
+  "category_ru": "Зелень",
+  "category_en": "Greens and herbs",
+  "uz":  "Селдерей",
+  "ru":  "Сельдерей",
+  "en":  "Celery"
+ },
+ {
+  "category_uz": "Кўкатлар",
+  "category_ru": "Зелень",
+  "category_en": "Greens and herbs",
+  "uz":  "Kўк пиёз",
+  "ru":  "Зеленый лук",
+  "en":  "Chives"
+ },
+ {
+  "category_uz": "Кўкатлар",
+  "category_ru": "Зелень",
+  "category_en": "Greens and herbs",
+  "uz":  "Беда",
+  "ru":  "Клевер",
+  "en":  "Clover"
+ },
+ {
+  "category_uz": "Кўкатлар",
+  "category_ru": "Зелень",
+  "category_en": "Greens and herbs",
+  "uz":  "Қоқи ўт",
+  "ru":  "Одуванчик",
+  "en":  "Dandelion"
+ },
+ {
+  "category_uz": "Кўкатлар",
+  "category_ru": "Зелень",
+  "category_en": "Greens and herbs",
+  "uz":  "Шивит",
+  "ru":  "Укроп",
+  "en":  "Dill"
+ },
+ {
+  "category_uz": "Кўкатлар",
+  "category_ru": "Зелень",
+  "category_en": "Greens and herbs",
+  "uz":  "Саримсоқ пиёз",
+  "ru":  "Чеснок",
+  "en":  "Garlic"
+ },
+ {
+  "category_uz": "Кўкатлар",
+  "category_ru": "Зелень",
+  "category_en": "Greens and herbs",
+  "uz":  "Зубтурум",
+  "ru":  "Подорожник",
+  "en":  "Goose grass"
+ },
+ {
+  "category_uz": "Кўкатлар",
+  "category_ru": "Зелень",
+  "category_en": "Greens and herbs",
+  "uz":  "Kўк пиёз",
+  "ru":  "Зеленый лук",
+  "en":  "Green onion"
+ },
+ {
+  "category_uz": "Кўкатлар",
+  "category_ru": "Зелень",
+  "category_en": "Greens and herbs",
+  "uz":  "Қирқбўғим",
+  "ru":  "Хвощ",
+  "en":  "Horsetail"
+ },
+ {
+  "category_uz": "Кўкатлар",
+  "category_ru": "Зелень",
+  "category_en": "Greens and herbs",
+  "uz":  "Салат барги",
+  "ru":  "Листья салата",
+  "en":  "Leaf lettuce"
+ },
+ {
+  "category_uz": "Кўкатлар",
+  "category_ru": "Зелень",
+  "category_en": "Greens and herbs",
+  "uz":  "Kўк пиёз (порей)",
+  "ru":  "Лук-порей",
+  "en":  "Leek 2"
+ },
+ {
+  "category_uz": "Кўкатлар",
+  "category_ru": "Зелень",
+  "category_en": "Greens and herbs",
+  "uz":  "Ялпиз",
+  "ru":  "Мята",
+  "en":  "Mint"
+ },
+ {
+  "category_uz": "Кўкатлар",
+  "category_ru": "Зелень",
+  "category_en": "Greens and herbs",
+  "uz":  "Жамбил",
+  "ru":  "Душица",
+  "en":  "Oregano"
+ },
+ {
+  "category_uz": "Кўкатлар",
+  "category_ru": "Зелень",
+  "category_en": "Greens and herbs",
+  "uz":  "Кашнич (петрушка)",
+  "ru":  "Петрушка, кинза",
+  "en":  "Parsley"
+ },
+ {
+  "category_uz": "Кўкатлар",
+  "category_ru": "Зелень",
+  "category_en": "Greens and herbs",
+  "uz":  "Розмарин",
+  "ru":  "Розмарин",
+  "en":  "Rosemary"
+ },
+ {
+  "category_uz": "Кўкатлар",
+  "category_ru": "Зелень",
+  "category_en": "Greens and herbs",
+  "uz":  "Kўк пиёз",
+  "ru":  "Лук-шалот",
+  "en":  "Scallion"
+ },
+ {
+  "category_uz": "Кўкатлар",
+  "category_ru": "Зелень",
+  "category_en": "Greens and herbs",
+  "uz":  "Отқулоқ",
+  "ru":  "Щавель",
+  "en":  "Sorrel"
+ },
+ {
+  "category_uz": "Кўкатлар",
+  "category_ru": "Зелень",
+  "category_en": "Greens and herbs",
+  "uz":  "Исмалоқ",
+  "ru":  "Шпинат туркестанский",
+  "en":  "Spinach"
+ },
+ {
+  "category_uz": "Кўкатлар",
+  "category_ru": "Зелень",
+  "category_en": "Greens and herbs",
+  "uz":  "Kўк пиёз",
+  "ru":  "Зеленый лук",
+  "en":  "Spring onion"
+ },
+ {
+  "category_uz": "Кўкатлар",
+  "category_ru": "Зелень",
+  "category_en": "Greens and herbs",
+  "uz":  "Беда",
+  "ru":  "Трилистник",
+  "en":  "Trefoil"
+ },
+ {
+  "category_uz": "Кўкатлар",
+  "category_ru": "Зелень",
+  "category_en": "Greens and herbs",
+  "uz":  "Дала чой",
+  "ru":  "Зверобой",
+  "en":  "Tutsan"
+ },
+ {
+  "category_uz": "Кўкатлар",
+  "category_ru": "Зелень",
+  "category_en": "Greens and herbs",
+  "uz":  "Кийик ўт",
+  "ru":  "Зизифора пахучая",
+  "en":  "Ziziphore"
+ },
+ {
+  "category_uz": "Дон ва уруғлар",
+  "category_ru": "Бобы, зерновые культуры и семена",
+  "category_en": "Pulses, legumes, grainsandseeds",
+  "uz":  "Адзуки ловияси",
+  "ru":  "Фасоль адзуки",
+  "en":  "Adzuki beans"
+ },
+ {
+  "category_uz": "Дон ва уруғлар",
+  "category_ru": "Бобы, зерновые культуры и семена",
+  "category_en": "Pulses, legumes, grainsandseeds",
+  "uz":  "Ловия",
+  "ru":  "Фасоль",
+  "en":  "Beans"
+ },
+ {
+  "category_uz": "Дон ва уруғлар",
+  "category_ru": "Бобы, зерновые культуры и семена",
+  "category_en": "Pulses, legumes, grainsandseeds",
+  "uz":  "Арпа",
+  "ru":  "Ячмень",
+  "en":  "Barley"
+ },
+ {
+  "category_uz": "Дон ва уруғлар",
+  "category_ru": "Бобы, зерновые культуры и семена",
+  "category_en": "Pulses, legumes, grainsandseeds",
+  "uz":  "Гречиха ёрмаси",
+  "ru":  "Гречка",
+  "en":  "Buckwheat"
+ },
+ {
+  "category_uz": "Дон ва уруғлар",
+  "category_ru": "Бобы, зерновые культуры и семена",
+  "category_en": "Pulses, legumes, grainsandseeds",
+  "uz":  "Бошоқли ғалла ўсимлиги",
+  "ru":  "Злаки",
+  "en":  "Cereals"
+ },
+ {
+  "category_uz": "Дон ва уруғлар",
+  "category_ru": "Бобы, зерновые культуры и семена",
+  "category_en": "Pulses, legumes, grainsandseeds",
+  "uz":  "Оддий нўхат",
+  "ru":  "Нут",
+  "en":  "Chickpeas"
+ },
+ {
+  "category_uz": "Дон ва уруғлар",
+  "category_ru": "Бобы, зерновые культуры и семена",
+  "category_en": "Pulses, legumes, grainsandseeds",
+  "uz":  "Жўхори",
+  "ru":  "Кукуруза",
+  "en":  "Corn"
+ },
+ {
+  "category_uz": "Дон ва уруғлар",
+  "category_ru": "Бобы, зерновые культуры и семена",
+  "category_en": "Pulses, legumes, grainsandseeds",
+  "uz":  "Кускус",
+  "ru":  "Кус-кус",
+  "en":  "Cous cous"
+ },
+ {
+  "category_uz": "Дон ва уруғлар",
+  "category_ru": "Бобы, зерновые культуры и семена",
+  "category_en": "Pulses, legumes, grainsandseeds",
+  "uz":  "Жўхори доналаридан қилинган таом",
+  "ru":  "Мамалыга",
+  "en":  "Hominy grits"
+ },
+ {
+  "category_uz": "Дон ва уруғлар",
+  "category_ru": "Бобы, зерновые культуры и семена",
+  "category_en": "Pulses, legumes, grainsandseeds",
+  "uz":  "Қизил ловия",
+  "ru":  "Конские бобы",
+  "en":  "Fava beans"
+ },
+ {
+  "category_uz": "Дон ва уруғлар",
+  "category_ru": "Бобы, зерновые культуры и семена",
+  "category_en": "Pulses, legumes, grainsandseeds",
+  "uz":  "Ловия",
+  "ru":  "Фасоль",
+  "en":  "Kidney beans"
+ },
+ {
+  "category_uz": "Дон ва уруғлар",
+  "category_ru": "Бобы, зерновые культуры и семена",
+  "category_en": "Pulses, legumes, grainsandseeds",
+  "uz":  "Ясмиқ",
+  "ru":  "Чечевица",
+  "en":  "Lentils"
+ },
+ {
+  "category_uz": "Дон ва уруғлар",
+  "category_ru": "Бобы, зерновые культуры и семена",
+  "category_en": "Pulses, legumes, grainsandseeds",
+  "uz":  "Зиғир уруғи",
+  "ru":  "Льняное семя",
+  "en":  "Linseed"
+ },
+ {
+  "category_uz": "Дон ва уруғлар",
+  "category_ru": "Бобы, зерновые культуры и семена",
+  "category_en": "Pulses, legumes, grainsandseeds",
+  "uz":  "Люпин донлари",
+  "ru":  "Семена люпина",
+  "en":  "Lupin beans"
+ },
+ {
+  "category_uz": "Дон ва уруғлар",
+  "category_ru": "Бобы, зерновые культуры и семена",
+  "category_en": "Pulses, legumes, grainsandseeds",
+  "uz":  "Жўхори дони",	
+  "ru":  "Кукуруза",	
+  "en":  "Maize"
+ },
+ {
+  "category_uz": "Дон ва уруғлар",
+  "category_ru": "Бобы, зерновые культуры и семена",
+  "category_en": "Pulses, legumes, grainsandseeds",
+  "uz":  "Тариқ",
+  "ru":  "Просо",
+  "en":  "Millet"
+ },
+ {
+  "category_uz": "Дон ва уруғлар",
+  "category_ru": "Бобы, зерновые культуры и семена",
+  "category_en": "Pulses, legumes, grainsandseeds",
+  "uz":  "Сули ёрмаси",
+  "ru":  "Овсяные хлопья",
+  "en":  "Oat flakes"
+ },
+ {
+  "category_uz": "Дон ва уруғлар",
+  "category_ru": "Бобы, зерновые культуры и семена",
+  "category_en": "Pulses, legumes, grainsandseeds",
+  "uz":  "Сули",
+  "ru":  "Рис-сырец",
+  "en":  "Oats"
+ },
+ {
+  "category_uz": "Дон ва уруғлар",
+  "category_ru": "Бобы, зерновые культуры и семена",
+  "category_en": "Pulses, legumes, grainsandseeds",
+  "uz":  "Сули уни",
+  "ru":  "Овсяная каша",
+  "en":  "Oatmeal"
+ },
+ {
+  "category_uz": "Дон ва уруғлар",
+  "category_ru": "Бобы, зерновые культуры и семена",
+  "category_en": "Pulses, legumes, grainsandseeds",
+  "uz":  "Хом гуруч",
+  "ru":  "Рис-сырец",
+  "en":  "Paddy rice"
+ },
+ {
+  "category_uz": "Дон ва уруғлар",
+  "category_ru": "Бобы, зерновые культуры и семена",
+  "category_en": "Pulses, legumes, grainsandseeds",
+  "uz":  "Яримталик нўхат (одатда кичик ва ярим кўринишда бўлади)",
+  "ru":  "Горох",
+  "en":  "Pea"
+ },
+ {
+  "category_uz": "Дон ва уруғлар",
+  "category_ru": "Бобы, зерновые культуры и семена",
+  "category_en": "Pulses, legumes, grainsandseeds",
+  "uz":  "Полента",
+  "ru":  "Полента",
+  "en":  "Polenta"
+ },
+ {
+  "category_uz": "Дон ва уруғлар",
+  "category_ru": "Бобы, зерновые культуры и семена",
+  "category_en": "Pulses, legumes, grainsandseeds",
+  "uz":  "Тозаланган гуруч",
+  "ru":  "Рис шлифованный",
+  "en":  "Polished rice"
+ },
+ {
+  "category_uz": "Дон ва уруғлар",
+  "category_ru": "Бобы, зерновые культуры и семена",
+  "category_en": "Pulses, legumes, grainsandseeds",
+  "uz":  "Поппий уруғи",
+  "ru":  "Маковые семена",
+  "en":  "Poppy seeds"
+ },
+ {
+  "category_uz": "Дон ва уруғлар",
+  "category_ru": "Бобы, зерновые культуры и семена",
+  "category_en": "Pulses, legumes, grainsandseeds",
+  "uz":  "Гуруч",
+  "ru":  "Рис",
+  "en":  "Rice"
+ },
+ {
+  "category_uz": "Дон ва уруғлар",
+  "category_ru": "Бобы, зерновые культуры и семена",
+  "category_en": "Pulses, legumes, grainsandseeds",
+  "uz":  "Жавдар",
+  "ru":  "Рожь",
+  "en":  "Rye"
+ },
+ {
+  "category_uz": "Дон ва уруғлар",
+  "category_ru": "Бобы, зерновые культуры и семена",
+  "category_en": "Pulses, legumes, grainsandseeds",
+  "uz":  "Манний ёрмаси",
+  "ru":  "Манная крупа",
+  "en":  "Semolina"
+ },
+ {
+  "category_uz": "Дон ва уруғлар",
+  "category_ru": "Бобы, зерновые культуры и семена",
+  "category_en": "Pulses, legumes, grainsandseeds",
+  "uz":  "Кунжут",
+  "ru":  "Кунжут",
+  "en":  "Sesame"
+ },
+ {
+  "category_uz": "Дон ва уруғлар",
+  "category_ru": "Бобы, зерновые культуры и семена",
+  "category_en": "Pulses, legumes, grainsandseeds",
+  "uz":  "Тропик ўлкаларда ўстириладиган дон тури",
+  "ru":  "Сорго",
+  "en":  "Sorghum"
+ },
+ {
+  "category_uz": "Дон ва уруғлар",
+  "category_ru": "Бобы, зерновые культуры и семена",
+  "category_en": "Pulses, legumes, grainsandseeds",
+  "uz":  "Соя донлари",
+  "ru":  "Соевый боб",
+  "en":  "Soya bean (ame soy bean)"
+ },
+ {
+  "category_uz": "Дон ва уруғлар",
+  "category_ru": "Бобы, зерновые культуры и семена",
+  "category_en": "Pulses, legumes, grainsandseeds",
+  "uz":  "Буғдой",
+  "ru":  "Пшеница",
+  "en":  "Wheat"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Сариёғли",
+  "ru":  "Масляный",
+  "en":  "Buttery"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Юқори калорияли",
+  "ru":  "Высококалорийный",
+  "en":  "Calorific"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Карамелланган",
+  "ru":  "Карамелизированный",
+  "en":  "Caramelized"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Чайналадиган",
+  "ru":  "Жевательный",
+  "en":  "Chewy"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Совутилган, яхна",
+  "ru":  "Охлажденный",
+  "en":  "Chilled"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Илиқ",
+  "ru":  "Теплый",
+  "en":  "Cool"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Кремли",
+  "ru":  "Кремовый",
+  "en":  "Creamy"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Карсиллайдиган",
+  "ru":  "Хрустящий",
+  "en":  "Crunchy"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Шакар билан қопланган",
+  "ru":  "Щедро посыпанный сахаром (буквально окунуть в сахар)",
+  "en":  "Crystallized"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Юпқа хамирли",
+  "ru":  "Тонкое тесто",
+  "en":  "Deep pan"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Қанд касали борлар учун мос",
+  "ru":  "Подходит для диабетиков",
+  "en":  "Diabetic"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Парҳез",
+  "ru":  "Диета",
+  "en":  "Diet"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Ҳазм бўлишга осон",
+  "ru":  "Легкоусвояемая",
+  "en":  "Digestible"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Қуруқ",
+  "ru":  "Сухой",
+  "en":  "Dry"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Ёғсиз",
+  "ru":  "Без масла/ нежирный",
+  "en":  "Fat-free"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Ёғли, семиртирадиган",
+  "ru":  "Жирный, калорийный",
+  "en":  "Fattening"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Ёғли",
+  "ru":  "Жирный",
+  "en":  "Fatty"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Тўйимли",
+  "ru":  "Сытный",
+  "en":  "Filling"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Гўштли",
+  "ru":  "Мясной",
+  "en":  "Fleshy"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Унли",
+  "ru":  "Мучной",
+  "en":  "Floury"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Момиқ",
+  "ru":  "Мягкий, нежный",
+  "en":  "Fluffy"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Барра",
+  "ru":  "Свежий",
+  "en":  "Fresh"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Мевали",
+  "ru":  "Фруктовый",
+  "en":  "Fruity"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Генетик модификацияланган",
+  "ru":  "Генномодифицированный",
+  "en":  "GM"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Ёғли",
+  "ru":  "Жирный",
+  "en":  "Greasy"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Кўкатли",
+  "ru":  "С зеленью",
+  "en":  "Green"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Қуюқ",
+  "ru":  "Густой",
+  "en":  "Heavy"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Ўсимликларга бой",
+  "ru":  "Богатый растениями",
+  "en":  "Herbal"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Муз билан қопланган",
+  "ru":  "Замороженный",
+  "en":  "Iced"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Ҳазм қилишга қийин",
+  "ru":  "Трудноусвояемый",
+  "en":  "Indigestible"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Тез тайёрланадиган",
+  "ru":  "Быстрого приготовления",
+  "en":  "Instant"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Мурабболи",
+  "ru":  "С вареньем",
+  "en":  "Jammy"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Енгил таом",
+  "ru":  "Легкая пища",
+  "en":  "Light"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Кам шакар, ёғ солинган; енгил",
+  "ru":  "Мало сахара, с маслом; легкий",
+  "en":  "Lite"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Кам калорияли",
+  "ru":  "Низкокалорийный",
+  "en":  "Lo-cal"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Кам калорияли",
+  "ru":  "Низкокалорийный",
+  "en":  "Low-cal"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Кам ёғ солинган",
+  "ru":  "Мало жира",
+  "en":  "Low-fat"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Оғизда эрийдиган",
+  "ru":  "Тает во рту",
+  "en":  "Melty"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Ментол солинган",
+  "ru":  "Добавлен ментол",
+  "en":  "Mentholated"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Микроволновкада пиширса бўладиган",
+  "ru":  "Для микроволновки",
+  "en":  "Microwavable"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Сутли",
+  "ru":  "Молочный",
+  "en":  "Milky"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Қўзиқоринли",
+  "ru":  "Грибной",
+  "en":  "Mushroom"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Ёғсиз",
+  "ru":  "Без жира",
+  "en":  "Non-fat"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Фойдали",
+  "ru":  "Полезный",
+  "en":  "Nourishing"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Озиқлантирувчи",
+  "ru":  "Питательный",
+  "en":  "Nutritive"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Ёнғоқли",
+  "ru":  "С орехом",
+  "en":  "Nutty"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Органик",
+  "ru":  "Органический",
+  "en":  "Organic"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Ер ёнғоқли",
+  "ru":  "Арахисовый",
+  "en":  "Peanut"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Тез айнидиган",
+  "ru":  "Быстро прокисающий",
+  "en":  "Perishable"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Оддий",
+  "ru":  "Обычный",
+  "en":  "Plain"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Хом",
+  "ru":  "Сырой",
+  "en":  "Raw"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Масаллиққа бой",
+  "ru":  "Богатый ингредиентами",
+  "en":  "Rich"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Ёғи кам",
+  "ru":  "Мало жира",
+  "en":  "Skinny"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Семиртирмайдиган",
+  "ru":  "Низко калорийный / не способствующий набору веса",
+  "en":  "Slimline"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Сувли",
+  "ru":  "Жидкий",
+  "en":  "Sloppy"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Газак учун мос",
+  "ru":  "Для салатов",
+  "en":  "Snackable"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Серсув",
+  "ru":  "Влажный",
+  "en":  "Soupy"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Ивитилган",
+  "ru":  "Замоченный",
+  "en":  "Soused"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Ачиган",
+  "ru":  "Пропавший (испорченный) продукт",
+  "en":  "Spoilt"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Крахмалли",
+  "ru":  "С крахмалом",
+  "en":  "Starchy"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Ёпишқоқ",
+  "ru":  "Липнущий",
+  "en":  "Sticky"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Қуюқ",
+  "ru":  "Густой",
+  "en":  "Stodgy"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Силқиган",
+  "ru":  "Вытекать, проступать, просачиваться",
+  "en":  "Strained"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Сертола, чўзилувчан",
+  "ru":  "Волокнистый",
+  "en":  "Stringy"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Шакар қопланган",
+  "ru":  "Засахаренный",
+  "en":  "Sugar-coated"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Қаттиқ, чандир",
+  "ru":  "Твердый, жилистый",
+  "en":  "Tough"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Вегетариан",
+  "ru":  "Вегетарианский",
+  "en":  "Vegetarian"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Иситилган",
+  "ru":  "Подогретый",
+  "en":  "Warmed-over"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Иситилган",
+  "ru":  "Подогретый",
+  "en":  "Warmed-up"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Буғдойли",
+  "ru":  "Пшеничный",
+  "en":  "Wheaten"
+ },
+ {
+  "category_uz": "Овқат тайёрлаш жараёнида ва меню ёзишда қўлланиладиган сифатлар",
+  "category_ru": "Кулинарные определения для внесения в меню",
+  "category_en": "Adjectives used in menu writing and food preparing process",
+  "uz":  "Кўпиртирилган",
+  "ru":  "Покрывать пеной, вспенивать",
+  "en":  "Whipped"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Алюмин идиш",
+  "ru":  "Алюминиевая кастрюля",
+  "en":  "Aluminum saucepan"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Духовка патниси",
+  "ru":  "Противень",
+  "en":  "Baking sheet"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Чуқурроқ духовка патниси",
+  "ru":  "Лоток",
+  "en":  "Baking tray (also roasting tray)"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Тоғора",
+  "ru":  "Миска",
+  "en":  "Basin"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Мармит (таомлар сақладиган стол)",
+  "ru":  "Мармит",
+  "en":  "Bain-marie"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Коса",
+  "ru":  "Чашка",
+  "en":  "Bowl"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Нон савати",
+  "ru":  "Корзинка для хлеба",
+  "en":  "Bread basket"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Нон идиши",
+  "ru":  "Хлебница",
+  "en":  "Breadbox (also bread bin, bread crocks)"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Кекслар пишириш қолипи",
+  "ru":  "Форма для выпечки кексов",
+  "en":  "Bun tin (ame muffin pan)"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Торт учун қолип",
+  "ru":  "Форма для выпечки торта",
+  "en":  "Cake pan (bre cake tin)"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Сирланган идиш (кастрюлка)",
+  "ru":  "Касероль",
+  "en":  "Casserole"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Қовуриш саватчаси",
+  "ru":  "Корзина для фритюрницы",
+  "en":  "Chip basket"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Картошка қовуриш учун мўлжалланган идиш",
+  "ru":  "Кастрюля-фритюрница",
+  "en":  "Chip pan"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Мойжувоз",
+  "ru":  "Маслобойка",
+  "en":  "Churn"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Сопол идиш",
+  "ru":  "Глиняная посуда",
+  "en":  "Clayware"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Контейнер(идиш)",
+  "ru":  "Сосуд, бак, контейнер",
+  "en":  "Container"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Қуймоқ пишириладиган това",
+  "ru":  "Сковорода для блинчиков",
+  "en":  "Crepe pan"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Сопол қозон",
+  "ru":  "Глиняный горшок, сосуд",
+  "en":  "Crock pot"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Мой, сирка қуйиладиган шишача (декантер)",
+  "ru":  "Уксусница, бутылочка, графинчик для масла",
+  "en":  "Cruet"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Финжон",
+  "ru":  "Чашка",
+  "en":  "Cup"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Мантиқозон",
+  "ru":  "Мантышница",
+  "en":  "Double boiler"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Қозон",
+  "ru":  "Казан",
+  "en":  "Dutch oven"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Сопол идиш",
+  "ru":  "Глиняная посуда",
+  "en":  "Earth pottery"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Сопол кўза",
+  "ru":  "Глиняная посуда",
+  "en":  "Earthenware"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Сирланган кастрюлка",
+  "ru":  "Эмалированная кастрюля",
+  "en":  "Enamel saucepan"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Фондю туплами",
+  "ru":  "Набор для фондю",
+  "en":  "Fondue set"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Овқат сақланадиган идиш (контейнер)",
+  "ru":  "Сосуд (посуда) для сохранения еды",
+  "en":  "Food container"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Қовуришда ишлатиладиган махсус сетка",
+  "ru":  "Корзина для фритюрницы",
+  "en":  "Frying basket"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Това",
+  "ru":  "Сковорода",
+  "en":  "Frying pan (ame also skillet)"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Шиша идиш",
+  "ru":  "Стеклянная посуда, столовое стекло",
+  "en":  "Glassware"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Дастакли това",
+  "ru":  "Сковорода с ручкой",
+  "en":  "Griddle"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Панжарали това",
+  "ru":  "Гриль сковорода",
+  "en":  "Grill pan"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Қопқоқ",
+  "ru":  "Крышка",
+  "en":  "Lid"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Нон пишириладиган қолип",
+  "ru":  "Противень для выпечки хлеба",
+  "en":  "Loaf pan (bre loaf tin)"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Аралаштириш учун мўлжалланган чуқур идиш",
+  "ru":  "Миска для смешивания продуктов",
+  "en":  "Mixing bowl"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Омлет пишириладиган това",
+  "ru":  "Сковорода для омлета",
+  "en":  "Omelette pan"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Това",
+  "ru":  "Сковорода",
+  "en":  "Pan"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Қуймоқ пишириш товаси",
+  "ru":  "Сковорода для блинчиков",
+  "en":  "Pancake pan"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Қозон, каструлка",
+  "ru":  "Горшок, кастрюля",
+  "en":  "Pot (bre saucepan)"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Босим билан тез пишириш қозони",
+  "ru":  "Скороварка",
+  "en":  "Pressure cooker"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Бир кишилик идиш",
+  "ru":  "Порционный горшочек",
+  "en":  "Ramekin"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Соус солинадиган шиша идиш",
+  "ru":  "Бутылка для соуса",
+  "en":  "Sauce bottle"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Кастрюлка",
+  "ru":  "Кастрюля",
+  "en":  "Saucepan (ame pot)"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Сате товаси",
+  "ru":  "Сковорода для сотирования",
+  "en":  "Saute pan"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Таом тортиш идиши",
+  "ru":  "Тарелка для сервировки",
+  "en":  "Serving dish"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Тунука това",
+  "ru":  "Противень",
+  "en":  "Sheet pan"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Қовуриш товаси",
+  "ru":  "Сковорода",
+  "en":  "Skillet (bre frying pan)"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Консерва",
+  "ru":  "Консервная банка, жестянка",
+  "en":  "Tin"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Чўян қозон",
+  "ru":  "Сосуд; контейнер",
+  "en":  "Vessel"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Асбоб",
+  "ru":  "Инструмент",
+  "en":  "Instrument"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Анжом (идиш-товоқ)",
+  "ru":  "Прибор, принадлежность",
+  "en":  "Utensil"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Олма кесгич (олма кесиш учун қўлланиладиган асбоб)",
+  "ru":  "Прибор для нарезки яблок",
+  "en":  "Apple wedger"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Кўпиртиргич",
+  "ru":  "Миксер",
+  "en":  "Beater"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Бланксимон қолип",
+  "ru":  "Форма для бланманже",
+  "en":  "Blancmange mould"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Бутилка очгич",
+  "ru":  "Открывалка для бутылок",
+  "en":  "Bottle opener"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Нон пичоғи",
+  "ru":  "Хлебный нож",
+  "en":  "Bread knif"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Чўтка",
+  "ru":  "Щетка",
+  "en":  "Brush"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Сариёғ пичоғи",
+  "ru":  "Нож для масла",
+  "en":  "Butter knife"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Очгич",
+  "ru":  "Консервный нож",
+  "en":  "Can-opener (bre tin-opener)"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Карвинг пичоғи",
+  "ru":  "Нож для нарезки мяса",
+  "en":  "Carving knife"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Карвинг асбоблар тўплами",
+  "ru":  "Набор ножей для карвинга",
+  "en":  "Carving tool set"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Пишлоқ учун пичоқ",
+  "ru":  "Нож для сыра",
+  "en":  "Cheese knife"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Пишлоқ кесиш анжоми",
+  "ru":  "Проволока для резки сыра",
+  "en":  "Cheese wire"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Данак тозаловчи ускуна",
+  "ru":  "Прибор для удаления косточек",
+  "en":  "Cherry or olive stoner"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Кичик элак",
+  "ru":  "Маленькое сито",
+  "en":  "Chinoise (also china cap)"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Чопиш учун махсус пичоқ",
+  "ru":  "Нож для рубки",
+  "en":  "Chopping knife"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Ошхона болтаси",
+  "ru":  "Кухонный топор",
+  "en":  "Cleaver"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Озиқ-овқат учун пленка",
+  "ru":  "Пищевая пленка",
+  "en":  "Cling wrap (plastic wrap ame; cling film bre)"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Дуршлаг",
+  "ru":  "Дуршлаг",
+  "en":  "Colander"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Хамир қолиплари",
+  "ru":  "Фигурки для нарезки теста",
+  "en":  "Cookie cutter"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Ошхона санчқичи",
+  "ru":  "Кухонная вилка",
+  "en":  "Cooking fork"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Ошхона қошиғи",
+  "ru":  "Кухонная ложка",
+  "en":  "Cooking spoon"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Ошхона анжомлари",
+  "ru":  "Кухонная утварь",
+  "en":  "Cooking utensils"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Олма уруғини тозаловчи асбоб",
+  "ru":  "Нож для удаления сердцевины яблок",
+  "en":  "Corer"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Штопор",
+  "ru":  "Штопор",
+  "en":  "Corkscrew"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Кесувчи асбоблар",
+  "ru":  "Режущие инструменты",
+  "en":  "Cutters"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Безатиш пичоги",
+  "ru":  "Нож для украшательства",
+  "en":  "Decorating knife"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Тухум кўпиртиргич",
+  "ru":  "Взбивалка для яиц",
+  "en":  "Egg beater"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Тухумларни тешиш асбоби",
+  "ru":  "Прибор для прокалывания яиц",
+  "en":  "Egg piercer"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Тухумларни қовуриш учун қолип",
+  "ru":  "Форма для жарки яиц",
+  "en":  "Egg poacher"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Тухумларни оқини сариғидан ажратувчи асбоб",
+  "ru":  "Прибор для разделения белка от желтка",
+  "en":  "Egg separator"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Тухумларни кесгич",
+  "ru":  "Устройство для нарезки вареных яиц",
+  "en":  "Egg slicer"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Тухум қайнатиш учун мўлжалланган таймер",
+  "ru":  "Форма для выпечки",
+  "en":  "Egg timer"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Тухумларни кесиш асбоби",
+  "ru":  "Устройство для нарезки вареных яиц",
+  "en":  "Egg wedger"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Пишириш учун қолип",
+  "ru":  "Столовые приборы, мелкая посуда, плоская посуда",
+  "en":  "Flan ring"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Ошхона анжомлари, майда идиш-товоқлар",
+  "ru":  "Ошхона анжомлари, майда идиш-товоқлар",
+  "en":  "Flatware"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Воронка",
+  "ru":  "Воронка",
+  "en":  "Funnel"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Саримсоқ сиқгич",
+  "ru":  "Пресс для чеснока",
+  "en":  "Garlic press"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Газ ўчоғи",
+  "ru":  "Газ ўчоғи",
+  "en":  "Gas torch"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Қирғич",
+  "ru":  "Газовая плита",
+  "en":  "Grater"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Музқаймоқ учун қошиқ",
+  "ru":  "Тёрка",
+  "en":  "Ice cream scoop"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Банка очгич",
+  "ru":  "Ложка для мороженого",
+  "en":  "Jar opener"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Шарбат сиқгич",
+  "ru":  "Открывалка для банок",
+  "en":  "Juicer"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Пишириш қолипи",
+  "ru":  "Соковыжималка",
+  "en":  "Kitchen mould"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Пичоқ",
+  "ru":  "Форма для выпечки",
+  "en":  "Knife"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Пичоқ чархлагич",
+  "ru":  "Нож",
+  "en":  "Knife sharpener"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Чўмич",
+  "ru":  "Точилка для ножей",
+  "en":  "Ladle"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Гўштни дудлаш учун игна",
+  "ru":  "Половник, черпак",
+  "en":  "Larding needle"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Лимон сиқгич",
+  "ru":  "Игла для шпигования мяса",
+  "en":  "Lemon squeezer (ame juicer)"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Омар майдалагич",
+  "ru":  "Соковыжималка для лимона",
+  "en":  "Lobster cracker"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Кўпиртиргич",
+  "ru":  "Щипцы для омаров",
+  "en":  "Looped wire"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Майдалагич",
+  "ru":  "Венчик, взбивалка",
+  "en":  "Mandoline"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Ўлчов стакани",
+  "ru":  "Шинковка",
+  "en":  "Measuring cup"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Ўлчов кўзачаси",
+  "ru":  "Мерный стаканчик",
+  "en":  "Measuring jug"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Ўлчов қошиғи",
+  "ru":  "Измерительный кувшин",
+  "en":  "Measuring spoon"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Гўшт чопадиган болтача",
+  "ru":  "Мерная ложка",
+  "en":  "Meat cleaver"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Гўшт юмшатгич",
+  "ru":  "Кухонный топорик для мяса",
+  "en":  "Meat tenderiser"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Гўшт учун ошхона термометри",
+  "ru":  "Кухонный термометр для мяса",
+  "en":  "Meat thermometer"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Тегирмон",
+  "ru":  "Мельница",
+  "en":  "Mill"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Ҳовонча",
+  "ru":  "Ступка",
+  "en":  "Mortar"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Қандолатчилик қолипи",
+  "ru":  "Кондитерская насадка",
+  "en":  "Nozzle"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Ёнғоқ чақгич",
+  "ru":  "Щипцы для колки орехов",
+  "en":  "Nut cracker"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Кўпиртиргич",
+  "ru":  "Миксер",
+  "en":  "Paddle"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Қандолатчилик пичоғи",
+  "ru":  "Кондитерский нож",
+  "en":  "Palette knife"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Това тутгич",
+  "ru":  "Прихватка",
+  "en":  "Pan grabber"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Пишириш қоғози",
+  "ru":  "Бумага для выпечки",
+  "en":  "Parchment paper (also baking paper, baking parchment)"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Хамир тайёрлаш учун машинка",
+  "ru":  "Машинка для приготовления макаронных изделий",
+  "en":  "Pasta roller (also pasta machine)"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Қандолатчилик қопи",
+  "ru":  "Кондитерский мешок",
+  "en":  "Pastry bag (also piping bag)"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Қандолат мўйқалами",
+  "ru":  "Кондитерская кисточка",
+  "en":  "Pastry brush"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Хамир кесиш учун махсус қолип",
+  "ru":  "Формочка для нарезки теста",
+  "en":  "Pastry cutter"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Сабзавотларни тозалаш пичоғи",
+  "ru":  "Нож для очистки овощей",
+  "en":  "Peeler"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Қалампир янчгич, майдалагич",
+  "ru":  "Мельница для перца",
+  "en":  "Pepper mill"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Қалампир идиши",
+  "ru":  "Солонка для перца",
+  "en":  "Pepper shaker"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Ҳовонча",
+  "ru":  "Ступа",
+  "en":  "Pestle"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Қандолатчилик қопчаси",
+  "ru":  "Кондитерский мешок",
+  "en":  "Piping bag (also pastry bag)"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Пицца кесгич",
+  "ru":  "Нож для пиццы",
+  "en":  "Pizza cutter"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Стрич елим халта",
+  "ru":  "Стрейч пленка",
+  "en":  "Plastic wrap (also cling film bre; cling wrap austre)"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Картошка эзгич",
+  "ru":  "Толкушка для картофеля",
+  "en":  "Potato masher"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Қуш кесиш учун қайчи",
+  "ru":  "Ножницы для резки птицы",
+  "en":  "Poultry shears"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Пишириш патниси",
+  "ru":  "Противень",
+  "en":  "Roasting tin (ame roasting pan)"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Ўқлов",
+  "ru":  "Скалка",
+  "en":  "Rolling pin"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Механик миксер",
+  "ru":  "Механический миксер",
+  "en":  "Rotary beater"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Шакар ўлчагич",
+  "ru":  "Сахарометр",
+  "en":  "Saccharometer"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Салат асбоблари",
+  "ru":  "Приборы для салата",
+  "en":  "Salad servers"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Туздон",
+  "ru":  "Солонка для соли",
+  "en":  "Salt shaker"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Сате таёқчалари",
+  "ru":  "Сатэ палочки",
+  "en":  "Sate sticks"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Тишли лезвия",
+  "ru":  "Зубчатое лезвие",
+  "en":  "Serrated blade"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Тишли пичоқ",
+  "ru":  "Зубчатый нож",
+  "en":  "Serrated knife"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Сервировка учун санчқич",
+  "ru":  "Вилка сервировочная",
+  "en":  "Serving fork"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Сервировка учун қошиқ",
+  "ru":  "Ложка сервировочная",
+  "en":  "Serving spoon"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Қайроқ тош",
+  "ru":  "Абразивный брусок",
+  "en":  "Sharpening stone"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Ошхона қайчиси",
+  "ru":  "Кухонные ножницы",
+  "en":  "Shears"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Сих",
+  "ru":  "Шампур",
+  "en":  "Skewer"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Тешикчали қошиқ",
+  "ru":  "Лопатка с отверстиями",
+  "en":  "Slotted spoon"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Ош қошиқ",
+  "ru":  "Столовая ложка",
+  "en":  "Soup spoon"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Ошхона шпатели",
+  "ru":  "Кухонный шпатель",
+  "en":  "Spatula"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Вертел",
+  "ru":  "Вертел",
+  "en":  "Spit"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Шарбат сиқгич",
+  "ru":  "Соковыжималка",
+  "en":  "Squeezer"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Шакар учун қошиқ",
+  "ru":  "Ложка для сахара",
+  "en":  "Sugar spoon"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Таймер",
+  "ru":  "Таймер",
+  "en":  "Timer"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Консерва очғичи",
+  "ru":  "Консервный нож",
+  "en":  "Tin-opener (ame can-opener)"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Қисқич",
+  "ru":  "Щипцы",
+  "en":  "Tongs"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Кўпиртиргич",
+  "ru":  "Взбивалка",
+  "en":  "Whisk 1"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Ёғоч қошиқ",
+  "ru":  "Деревянная ложка",
+  "en":  "Wooden spoon"
+ },
+ {
+  "category_uz": "Ошхона буюмлари ва ускуналари",
+  "category_ru": "Кухонная посуда, формы для выпечки и инвентарь",
+  "category_en": "Cook ware and bake ware",
+  "uz":  "Цитрус меваларини тозалаш асбоби",
+  "ru":  "Прибор для очистки кожуры цитрусовых плодов",
+  "en":  "Zester"
+ },
+ {
+  "category_uz": "Безатишлар",
+  "category_ru": "Украшательства",
+  "category_en": "Decoration",
+  "uz":  "Кўкат билан безатмоқ",
+  "ru":  "Украсить зеленью",
+  "en":  "Serve with ___ (lattuce, greens)"
+ },
+ {
+  "category_uz": "Безатишлар",
+  "category_ru": "Украшательства",
+  "category_en": "Decoration",
+  "uz":  "Устидан қатиқ солмоқ",
+  "ru":  "Полить кислым молоком",
+  "en":  "Spoon sour milk on top or top with sour milk"
+ },
+ {
+  "category_uz": "Безатишлар",
+  "category_ru": "Украшательства",
+  "category_en": "Decoration",
+  "uz":  "___ дан гулча ясамоқ",
+  "ru":  "Сделать цветок из ___",
+  "en":  "Make a rosette from ___"
+ },
+ {
+  "category_uz": "Безатишлар",
+  "category_ru": "Украшательства",
+  "category_en": "Decoration",
+  "uz":  "Сабзидан кесилган гулча",
+  "ru":  "Цветок, вырезанный из моркови",
+  "en":  "Carrot flower"
+ },
+ {
+  "category_uz": "Безатишлар",
+  "category_ru": "Украшательства",
+  "category_en": "Decoration",
+  "uz":  "Латук барги билан безамоқ",
+  "ru":  "Украсить листьями латука",
+  "en":  "Top with lettuce or serve with lettuce"
+ },
+ {
+  "category_uz": "Безатишлар",
+  "category_ru": "Украшательства",
+  "category_en": "Decoration",
+  "uz":  "Бир четига",
+  "ru":  "В сторону",
+  "en":  "To side"
+ },
+ {
+  "category_uz": "Безатишлар",
+  "category_ru": "Украшательства",
+  "category_en": "Decoration",
+  "uz":  "Атрофини безатмоқ",
+  "ru":  "Украсить вокруг ___ чем-то ___",
+  "en":  "Decorate around the side of ___ with ___"
+ },
+ {
+  "category_uz": "Безатишлар",
+  "category_ru": "Украшательства",
+  "category_en": "Decoration",
+  "uz":  "Юзига сепмоқ",
+  "ru":  "Посыпать ___",
+  "en":  "Sprinkle with ___"
+ },
+ {
+  "category_uz": "Безатишлар",
+  "category_ru": "Украшательства",
+  "category_en": "Decoration",
+  "uz":  "Устига ___ солмоқ",
+  "ru":  "Сверху ___ положить",
+  "en":  "Top it with ___"
+ },
+ {
+  "category_uz": "Безатишлар",
+  "category_ru": "Украшательства",
+  "category_en": "Decoration",
+  "uz":  "Гул шаклида",
+  "ru":  "В форме цветка",
+  "en":  "In a shape of flower"
+ },
+ {
+  "category_uz": "Безатишлар",
+  "category_ru": "Украшательства",
+  "category_en": "Decoration",
+  "uz":  "… дан ўйилган гул (барг, юлдузча…)",
+  "ru":  "Цветы (листья, звезды…) вырезанные из…",
+  "en":  "Flowers (leaves, stars…) carved from …"
+ },
+ {
+  "category_uz": "Безатишлар",
+  "category_ru": "Украшательства",
+  "category_en": "Decoration",
+  "uz":  "Устига қуймоқ (безатиш учун)",
+  "ru":  "Полить (для украшения)",
+  "en":  "Drizzle with (over)…"
+ },
+ {
+  "category_uz": "Безатишлар",
+  "category_ru": "Украшательства",
+  "category_en": "Decoration",
+  "uz":  "___ нинг атрофи",
+  "ru":  "Вокруг ___",
+  "en":  "Around the side of the ___"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Олма",
+  "ru":  "Яблоко",
+  "en":  "Apple"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Ўрик",
+  "ru":  "Абрикос",
+  "en":  "Apricot"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Авокадо",
+  "ru":  "Авокадо",
+  "en":  "Avocado"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Бананнинг кичкина нави",
+  "ru":  "Бэби-бананы",
+  "en":  "Baby banana"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Банан",
+  "ru":  "Банан",
+  "en":  "Banana"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Резавор",
+  "ru":  "Ягода",
+  "en":  "Berry"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Қора гилос",
+  "ru":  "Черная черешня",
+  "en":  "Black cherries"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Қорағат",
+  "ru":  "Черная смородина",
+  "en":  "Black currant"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Қизил мевали бута(бузина)",
+  "ru":  "Черная бузина",
+  "en":  "Black elderberry"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Қора тут",
+  "ru":  "Черная шелковица",
+  "en":  "Black mulberry"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Қорағат",
+  "ru":  "Ежевика",
+  "en":  "Blackberry (also brambleberry)"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Тиканли олхўри",
+  "ru":  "Терн, терновник или слива колючая",
+  "en":  "Blackthorn"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Қизил апельсин",
+  "ru":  "Красный апельсин",
+  "en":  "Blood orange"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Черника (меваси тўқ кўк)",
+  "ru":  "Черника, голубика",
+  "en":  "Blueberry"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Нонга ўхшаш тропик мева",
+  "ru":  "Плод хлебного дерева",
+  "en":  "Breadfruit"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Канталупа (қовун нави)",
+  "ru":  "Мускусная дыня",
+  "en":  "Cantaloupe"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Физалис",
+  "ru":  "Физалис",
+  "en":  "Cape gooseberry"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Карамбола",
+  "ru":  "Карамбола",
+  "en":  "Carambola (also starfruit)"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Гилос",
+  "ru":  "Черешня",
+  "en":  "Cherry"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Кўк султон",
+  "ru":  "Алыча",
+  "en":  "Cherry plum"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Цитрус мевалар",
+  "ru":  "Цитрусовые плоды",
+  "en":  "Citrus fruits"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Морошка (хушбўй ботқоқ меваси)",
+  "ru":  "Морошка",
+  "en":  "Cloudberry"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Кокос",
+  "ru":  "Кокос",
+  "en":  "Coconut"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Клюква (қизил, нордон мевали бута)",
+  "ru":  "Клюква",
+  "en":  "Cranberry"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Тиканли олхўри",
+  "ru":  "Чернослив",
+  "en":  "Damson"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Хурмо",
+  "ru":  "Финик",
+  "en":  "Date"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Данакли мева",
+  "ru":  "Косточковый плод",
+  "en":  "Drupe"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Анжир",
+  "ru":  "Инжир",
+  "en":  "Fig"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Узум",
+  "ru":  "Виноград",
+  "en":  "Grape"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Грейпфрут (ситруслар туркумига мансуб апелсинсимон дарахт ва унинг меваси)",
+  "ru":  "Грейпфрут",
+  "en":  "Grapefruit"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Крижовник (қорағатлар оиласига мансуб тиканли бута ўсимлик ва унинг меваси)",
+  "ru":  "Крижовник",
+  "en":  "Gooseberry"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Гуава (тропик мева)",
+  "ru":  "Гуайява (тропический фрукт)",
+  "en":  "Guava (also guayava)"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Асал қовун",
+  "ru":  "Медовая дыня",
+  "en":  "Honeydew melon"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Хурмо",
+  "ru":  "Хурма",
+  "en":  "Kaki fruit (also sharon fruit or persimmon)"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Киви",
+  "ru":  "Киви",
+  "en":  "Kiwi"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Лимон",
+  "ru":  "Лимон",
+  "en":  "Lemon"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Яшил лимон",
+  "ru":  "Лайм, лимон зеленый",
+  "en":  "Lime"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Брусника",
+  "ru":  "Брусника",
+  "en":  "Lingonberry"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Манго",
+  "ru":  "Манго",
+  "en":  "Mango"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Қовун",
+  "ru":  "Дыня",
+  "en":  "Melon"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Нектарин",
+  "ru":  "Нектарин",
+  "en":  "Nectarine"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Зайтун",
+  "ru":  "Маслины (оливки)",
+  "en":  "Olives"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Апелсин",
+  "ru":  "Апельсин",
+  "en":  "Orange"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Папайя (тропик мева)",
+  "ru":  "Папайя (тропический фрукт)",
+  "en":  "Papaya"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Шафтоли",
+  "ru":  "Персик",
+  "en":  "Peach"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Нок",
+  "ru":  "Груша",
+  "en":  "Pear"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Ананас",
+  "ru":  "Ананас",
+  "en":  "Pineapple"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Олхўри",
+  "ru":  "Слива",
+  "en":  "Plum"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Анор",
+  "ru":  "Гранат",
+  "en":  "Pomegranate"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Анор донаси",
+  "ru":  "Гранатовые зерна",
+  "en":  "Pomegranate seeds"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Қора олхўри",
+  "ru":  "Чернослив",
+  "en":  "Prune"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Паммело",
+  "ru":  "Паммело",
+  "en":  "Pummelo (also shaddock (citrus maxima)"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Беҳи",
+  "ru":  "Айва",
+  "en":  "Quince"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Малина",
+  "ru":  "Малина",
+  "en":  "Raspberry"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Қизил смородина",
+  "ru":  "Красная смородина",
+  "en":  "Red currant"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Олча",
+  "ru":  "Вишня",
+  "en":  "Sour cherry (also morello cherry)"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Карамбола",
+  "ru":  "Карамбола",
+  "en":  "Star fruit (also carambola)"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Данакли мева",
+  "ru":  "Косточковые плоды",
+  "en":  "Stone fruit"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Қулупнай",
+  "ru":  "Клубника",
+  "en":  "Strawberry"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Хурмо",
+  "ru":  "Хурма",
+  "en":  "Sharon fruit"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Султана (майиз)",
+  "ru":  "Изюм",
+  "en":  "Sultana (bre)"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Тамарилло",
+  "ru":  "Тамарилло",
+  "en":  "Tamarillo"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Тангело",
+  "ru":  "Танжело",
+  "en":  "Tangelo"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Мандарин",
+  "ru":  "Мандарин",
+  "en":  "Tangerine"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Тарвуз",
+  "ru":  "Арбуз",
+  "en":  "Watermelon"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Оқ тут меваси",
+  "ru":  "Белая шелковица",
+  "en":  "White mulberry"
+ },
+ {
+  "category_uz": "Мевалар",
+  "category_ru": "Фрукты",
+  "category_en": "Fruits",
+  "uz":  "Оқ майиз",
+  "ru":  "Белый изюм",
+  "en":  "White raisin"
+ },
+ {
+  "category_uz": "Қовуриш",
+  "category_ru": "Процесс обжарки",
+  "category_en": "Frying",
+  "uz":  "Ёғда қовуриб олмоқ",
+  "ru":  "Обжарить в масле",
+  "en":  "Fry"
+ },
+ {
+  "category_uz": "Қовуриш",
+  "category_ru": "Процесс обжарки",
+  "category_en": "Frying",
+  "uz":  "Икки томони қизартириб қовурмоқ",
+  "ru":  "Обжарить с двух сторон до красноты",
+  "en":  "Fry until two sides golden"
+ },
+ {
+  "category_uz": "Қовуриш",
+  "category_ru": "Процесс обжарки",
+  "category_en": "Frying",
+  "uz":  "Тилла ранг бўлгунча",
+  "ru":  "До появления золотой корочки",
+  "en":  "Until golden"
+ },
+ {
+  "category_uz": "Қовуриш",
+  "category_ru": "Процесс обжарки",
+  "category_en": "Frying",
+  "uz":  "Қизғиш қобиқ ҳосил бўлгунча",
+  "ru":  "До появления красной корочки",
+  "en":  "Browned uniformly on all sides"
+ },
+ {
+  "category_uz": "Қовуриш",
+  "category_ru": "Процесс обжарки",
+  "category_en": "Frying",
+  "uz":  "Гўштни тўғридан тўғри очиқ оловда пиширмоқ (қовурмасдан, барбекю усулида)",
+  "ru":  "Готовить мясо на открытом огне (без жарки, как барбекю)",
+  "en":  "Broil"
+ },
+ {
+  "category_uz": "Қовуриш",
+  "category_ru": "Процесс обжарки",
+  "category_en": "Frying",
+  "uz":  "Духовкада пишириш",
+  "ru":  "Печь в духовке",
+  "en":  "Roast"
+ },
+ {
+  "category_uz": "Қовуриш",
+  "category_ru": "Процесс обжарки",
+  "category_en": "Frying",
+  "uz":  "Кўп ёғда қовуриш",
+  "ru":  "Жарить в большом количестве масла",
+  "en":  "Deep fry"
+ },
+ {
+  "category_uz": "Қовуриш",
+  "category_ru": "Процесс обжарки",
+  "category_en": "Frying",
+  "uz":  "Ўртача ёғда қовуриш",
+  "ru":  "Жарить на среднем огне",
+  "en":  "Shallow fry"
+ },
+ {
+  "category_uz": "Қовуриш",
+  "category_ru": "Процесс обжарки",
+  "category_en": "Frying",
+  "uz":  "Товада кам ёғда қизартириб олиш",
+  "ru":  "Подрумянить на сковороде в маленьком количестве масла",
+  "en":  "Pan fry"
+ },
+ {
+  "category_uz": "Қовуриш",
+  "category_ru": "Процесс обжарки",
+  "category_en": "Frying",
+  "uz":  "Аралаштириб туриб, қовуриш",
+  "ru":  "Жарить, перемешивая",
+  "en":  "Stir fry"
+ },
+ {
+  "category_uz": "Қовуриш",
+  "category_ru": "Процесс обжарки",
+  "category_en": "Frying",
+  "uz":  "Товада маҳсулотларни озроқ қизартириб, сувини чиқариб қовуриш",
+  "ru":  "Подрумянить на сковороде, чтобы испарился сок",
+  "en":  "Saute"
+ },
+ {
+  "category_uz": "Ёғни қиздириш",
+  "category_ru": "Перекаливание масла",
+  "category_en": "Heating oil",
+  "uz":  "Доғламоқ",
+  "ru":  "Перекалить (о хлопковом масле)",
+  "en":  "High-heate"
+ },
+ {
+  "category_uz": "Ёғни қиздириш",
+  "category_ru": "Перекаливание масла",
+  "category_en": "Heating oil",
+  "uz":  "Ёғ солинган това (ёғланган), ёғламоқ",
+  "ru":  "Сковорода, смазанная маслом",
+  "en":  "To spray pan"
+ },
+ {
+  "category_uz": "Ёғни қиздириш",
+  "category_ru": "Перекаливание масла",
+  "category_en": "Heating oil",
+  "uz":  "Доғлаб совутилган ёғ",
+  "ru":  "Перекаленное охлажденное масло",
+  "en":  "Cool high-heated oil"
+ },
+ {
+  "category_uz": "Ёғни қиздириш",
+  "category_ru": "Перекаливание масла",
+  "category_en": "Heating oil",
+  "uz":  "Товага … сурмоқ (ёғ, сариёғ)",
+  "ru":  "Смазать сковороду с (маслом, сливочном маслом)",
+  "en":  "Brush the pan with (oil, butter)"
+ },
+ {
+  "category_uz": "Ёғни қиздириш",
+  "category_ru": "Перекаливание масла",
+  "category_en": "Heating oil",
+  "uz":  "Ёғ қиздириш (доғлаш)",
+  "ru":  "Прокалить масло",
+  "en":  "Heat oil"
+ },
+ {
+  "category_uz": "Ёғни қиздириш",
+  "category_ru": "Перекаливание масла",
+  "category_en": "Heating oil",
+  "uz":  "Ёғ суртмоқ",
+  "ru":  "Смазать",
+  "en":  "Grease (oil)"
+ },
+ {
+  "category_uz": "Ёғни қиздириш",
+  "category_ru": "Перекаливание масла",
+  "category_en": "Heating oil",
+  "uz":  "Пишириш пайтида ___ суриб турмоқ",
+  "ru":  "Во время готовки ___ отодвинуть",
+  "en":  "Baste ___ with ___"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Анжом, асбоб",
+  "ru":  "АПрибор, приспособление, устройство",
+  "en":  "Appliance"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Ускуна, жиҳоз",
+  "ru":  "Оборудование, техника",
+  "en":  "Equipment"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Барбекю",
+  "ru":  "Барбекю",
+  "en":  "Barbecue"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Барбекю тўплами",
+  "ru":  "Барбекю набор",
+  "en":  "Barbecue set"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Шарбатсиққич",
+  "ru":  "Блендер",
+  "en":  "Blender"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Нон кескич",
+  "ru":  "Хлеборезка",
+  "en":  "Bread slicer"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Нон пиширгич",
+  "ru":  "Хлебопечка",
+  "en":  "Breadmaker"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Газ плитасининг газ чиқадиган жойи",
+  "ru":  "Газовая горелка",
+  "en":  "Burner(bre gas ring)"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Шоколадли фаввора",
+  "ru":  "Шоколадный фонтан",
+  "en":  "Chocolate fountain"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Цитрус шарбат чиқаргич",
+  "ru":  "Соковыжималка для цитрусовых",
+  "en":  "Citrus juicer"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Кофе майдалагич",
+  "ru":  "Кофемолка",
+  "en":  "Coffee grinder"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Конвекция печи (иситгич печи)",
+  "ru":  "Конвекционная печь",
+  "en":  "Convection oven"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Нон иситгич",
+  "ru":  "Конвейерный тостер",
+  "en":  "Conveyor toaster"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Қуймоқ пиширгич",
+  "ru":  "Электроблинница, блинница",
+  "en":  "Crepe maker"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Тўла ёғда пиширгич",
+  "ru":  "Фритюрница",
+  "en":  "Deep-fryer"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Идишларни иситиш шкафи",
+  "ru":  "Шкаф для подогрева посуды",
+  "en":  "Dish warmer"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Идиш ювгич, идиш ювувчи мослама",
+  "ru":  "Посудомоечная машина",
+  "en":  "Dishwasher"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Идишларни қуритгич",
+  "ru":  "Сушилка для посуды",
+  "en":  "Dryer"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Электрон қумғон",
+  "ru":  "Электрический чайник",
+  "en":  "Electric kettle"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Электрон пичоқ",
+  "ru":  "Электронож",
+  "en":  "Electric knife"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Электрон тарози",
+  "ru":  "Электронные весы",
+  "en":  "Electronic scales"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Ошхона комбайни",
+  "ru":  "Кухонный комбайн",
+  "en":  "Food processor"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Музхона",
+  "ru":  "Замораживатель; морозилка",
+  "en":  "Freezer"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Музлатгич",
+  "ru":  "Холодильник",
+  "en":  "Fridge"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Това",
+  "ru":  "Фритюрница; Сковорода",
+  "en":  "Fryer"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Газ плитаси",
+  "ru":  "Газовая плита",
+  "en":  "Gas ring (ame burner)"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Грилл",
+  "ru":  "Гриль",
+  "en":  "Grill"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Гўшт майдалагич",
+  "ru":  "Мясорубка",
+  "en":  "Grinder"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Қўлда аралаштиргич",
+  "ru":  "Ручной миксер",
+  "en":  "Hand mixer"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Иссиқлик чироғи",
+  "ru":  "Кухонная нагревательная лампа",
+  "en":  "Heat lamp"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Иситиш хонаси",
+  "ru":  "Шкаф для подогрева посуды",
+  "en":  "Heating cabinet"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Плита",
+  "ru":  "Плита",
+  "en":  "Hob"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Ошхона мўриси (тутун тортгич)",
+  "ru":  "Кухонная вытяжка",
+  "en":  "Hood"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Плита",
+  "ru":  "Плита",
+  "en":  "Hot plate (ame)"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Музқаймоқ тайёрлагич",
+  "ru":  "Машина для мороженого",
+  "en":  "Ice cream maker"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Муз тайёрлагич",
+  "ru":  "Ледогенератор",
+  "en":  "Ice maker"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Шарбат чиқиргич",
+  "ru":  "Соковыжималка",
+  "en":  "Juice extractor"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Қумғон",
+  "ru":  "Чайник",
+  "en":  "Kettle"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Ошхона анжомлари, буюмлари",
+  "ru":  "Кухонное оборудование",
+  "en":  "Kitchen ware"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Шарбат чиқаргич",
+  "ru":  "Настольный блендер",
+  "en":  "Liquidiser"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Гўшт майдалагич",
+  "ru":  "Мясорубка",
+  "en":  "Meat grinder"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Гўшт кесгич",
+  "ru":  "Слайсеры (ломтерезки)",
+  "en":  "Meat slicer"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Микротўлқинли печ",
+  "ru":  "Микроволновая печь",
+  "en":  "Microwave"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Гўшт майдалагич",
+  "ru":  "Мясорубка",
+  "en":  "Mincer"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Аралаштигрич, миксер",
+  "ru":  "Миксер",
+  "en":  "Mixer"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Газ печи",
+  "ru":  "Духовой шкаф, духовка",
+  "en":  "Oven"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Газ печи панжараси",
+  "ru":  "Решетка для духовки",
+  "en":  "Oven rack"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Паста тайёрлагич",
+  "ru":  "Машинка для пасты",
+  "en":  "Pasta-making machine"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Маккажўхоридан бодрок тайёрлагич",
+  "ru":  "Машина для попкорна",
+  "en":  "Popper"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Картошка арчгич, тозалагич",
+  "ru":  "Машина для чистки картофеля",
+  "en":  "Potato peeler"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Музлатгич",
+  "ru":  "Холодильник",
+  "en":  "Refrigerator"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Гуруч пиширгич",
+  "ru":  "Рисоварка",
+  "en":  "Rice cooker"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Грилл",
+  "ru":  "Гриль",
+  "en":  "Rotisserie"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Саламандер грили",
+  "ru":  "Гриль саламандер",
+  "en":  "Salamander grill"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Колбаса тайёрлагич",
+  "ru":  "Машина для изготовления колбасы",
+  "en":  "Sausage machine"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Тарози",
+  "ru":  "Весы",
+  "en":  "Scales"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Кесгич",
+  "ru":  "Ломтерезка",
+  "en":  "Slicer"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Буғқозон",
+  "ru":  "Пароварка",
+  "en":  "Steamer"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Қўл блендери",
+  "ru":  "Ручной блендер",
+  "en":  "Stick blender"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Печ",
+  "ru":  "Печка",
+  "en":  "Stove"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Газ плитаси",
+  "ru":  "Плита",
+  "en":  "Stovetop"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Термостат",
+  "ru":  "Термостат",
+  "en":  "Thermostat"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Тостер",
+  "ru":  "Тостер",
+  "en":  "Toaster"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Ҳаво ютгич",
+  "ru":  "Машина ваккумная упаковочная",
+  "en":  "Vacuum machine (also vacuum food sealer)"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Вафли ясагич (мослама, қолип)",
+  "ru":  "Вафельный пресс",
+  "en":  "Waffle iron (also waffle press)"
+ },
+ {
+  "category_uz": "Ошхона анжомлари ва жиҳозлари",
+  "category_ru": "Кухонная техника и оборудование",
+  "category_en": "Kitchen appliances and equipment",
+  "uz":  "Газ печи",
+  "ru":  "Глиняная печь-жаровня",
+  "en":  "Wood-burning oven"
+ },
+ {
+  "category_uz": "Хорижлик сайёҳлар тушуниши учун зарур бўлган атамалар",
+  "category_ru": "Определения, необходимые для понимания иностранными туристами",
+  "category_en": "Necessary definition for foreign tourists to understand",
+  "uz":  "Зирвак (зарвак) – ош тайёрлаш учун қовурилган гўшт, пиёз ва сабзи",
+  "ru":  "Зирвак – поджарка для плова (мясо, лук, морковь)",
+  "en":  "Zirvak (zarvak) – fried meat, onion and carrot, prepared for making pilaf"
+ },
+ {
+  "category_uz": "Хорижлик сайёҳлар тушуниши учун зарур бўлган атамалар",
+  "category_ru": "Определения, необходимые для понимания иностранными туристами",
+  "category_en": "Necessary definition for foreign tourists to understand",
+  "uz":  "Қийма – махсус тайёрланган майда тўғралган ёки қиймаланган маҳсулотлар аралашмаси, асосан, бирор маҳсулотнинг ичини тўлдириш учун тайёрланади.",
+  "ru":  "Фарш – смесь измельченых на специальном оборудовании продуктов или смесь мелко нарезанных продуктов; предназначен для фарширования или в качестве начинки",
+  "en":  "Stuffing (mixture, filling) – special mixture of chopped ingredients, especially, for filling any ingredient"
+ },
+ {
+  "category_uz": "Хорижлик сайёҳлар тушуниши учун зарур бўлган атамалар",
+  "category_ru": "Определения, необходимые для понимания иностранными туристами",
+  "category_en": "Necessary definition for foreign tourists to understand",
+  "uz":  "Дўлма – ичига қийма солиб ўралган маҳсулот (карам, ток барги, хамир)",
+  "ru":  "Долма – блюдо, представляющее собой начиненные овощи или листья (капуста, листья винограда, тесто)",
+  "en":  "Dolma – stuffed or rolled product with filling (can be cabbage, vine leaf, dough)"
+ },
+ {
+  "category_uz": "Хорижлик сайёҳлар тушуниши учун зарур бўлган атамалар",
+  "category_ru": "Определения, необходимые для понимания иностранными туристами",
+  "category_en": "Necessary definition for foreign tourists to understand",
+  "uz":  "Льезон – аталанган тухум",
+  "ru":  "Соус «Льезон» - соус на основе взбитого яйца",
+  "en":  "Lizon – whisked egg"
+ },
+ {
+  "category_uz": "Хорижлик сайёҳлар тушуниши учун зарур бўлган атамалар",
+  "category_ru": "Определения, необходимые для понимания иностранными туристами",
+  "category_en": "Necessary definition for foreign tourists to understand",
+  "uz":  "Угра – ингичка сомонча қилиб тўғралган хамир бўлаклари",
+  "ru":  "Угра – тесто, мелко нарезанное соломкой",
+  "en":  "Ugra – finely julienned dough pieces"
+ },
+ {
+  "category_uz": "Хорижлик сайёҳлар тушуниши учун зарур бўлган атамалар",
+  "category_ru": "Определения, необходимые для понимания иностранными туристами",
+  "category_en": "Necessary definition for foreign tourists to understand",
+  "uz":  "Чучвара – ичига қийма солиб кичкина тугилган хамирли таом",
+  "ru":  "Чучвара – пельмени. Блюдо в виде отварных изделий из теста с начинкой маленького размера",
+  "en":  "Chuchvara (dumplings) – stuffed dough with chopped meat and onion"
+ },
+ {
+  "category_uz": "Хорижлик сайёҳлар тушуниши учун зарур бўлган атамалар",
+  "category_ru": "Определения, необходимые для понимания иностранными туристами",
+  "category_en": "Necessary definition for foreign tourists to understand",
+  "uz":  "Лағмон – узун ва ингичка қилиб чўзилган ёки кесилган хамир",
+  "ru":  "Лагман – тонкая лапша, вытянутая вручную или нарезанная",
+  "en":  "Lagman (noodles) – handmade noodles"
+ },
+ {
+  "category_uz": "Хорижлик сайёҳлар тушуниши учун зарур бўлган атамалар",
+  "category_ru": "Определения, необходимые для понимания иностранными туристами",
+  "category_en": "Necessary definition for foreign tourists to understand",
+  "uz":  "Жизза – қовурилган думба бўлаклари",
+  "ru":  "Жизза – жаренный бараний жир",
+  "en":  "Jizza – fried mutton fat cubes"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Совутмоқ",
+  "ru":  "Охладить",
+  "en":  "Cool"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Қирқичдан чиқирмоқ",
+  "ru":  "Натереть",
+  "en":  "Grate"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Ичига солмоқ",
+  "ru":  "Положить во внутрь",
+  "en":  "Spoon ___ into ___"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Оз миқдорда сут",
+  "ru":  "Немного молока",
+  "en":  "A splash of milk"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Оз миқдорда суюқлик",
+  "ru":  "Небольшое количество (жидкости)",
+  "en":  "Splash"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Қаймоқни сут билан суюқлаштирмоқ",
+  "ru":  "Разбавление крема молоком",
+  "en":  "Thin the cream lightly with a splash of milk"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Музлатгичда сақламоқ",
+  "ru":  "Хранить в холодильнике",
+  "en":  "Store in fridge"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Силқитмоқ",
+  "ru":  "Высушить",
+  "en":  "Drain"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Сиқмоқ (сувини сиқиб олмоқ)",
+  "ru":  "Выжать",
+  "en":  "Squeeze"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Сувга ботириб қўймоқ",
+  "ru":  "Обмакнуть в воде",
+  "en":  "Soak"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Сувини тўкиб ташламоқ",
+  "ru":  "Слить",
+  "en":  "Pour ___ off"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Шарбатини олмоқ",
+  "ru":  "Получить сок (щербет)",
+  "en":  "To juice"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Вилка билан тешмоқ",
+  "ru":  "Проколоть вилкой",
+  "en":  "Prick with a fork"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Суюқликдан сузиб олмоқ",
+  "ru":  "Выловить",
+  "en":  "Drain"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Янчмоқ",
+  "ru":  "Измельчить",
+  "en":  "Crush or ground (pepper)"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Маринадламоқ",
+  "ru":  "Замариновать",
+  "en":  "Marinate or pickle"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Ўрамоқ",
+  "ru":  "Завернуть",
+  "en":  "Roll ___ up"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Учларини боқламоқ (ип билан)",
+  "ru":  "Связать концы ниткой",
+  "en":  "Tie off the ends or tie with kitchen string"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Ичини тўлдирмоқ (булғор, ичак)",
+  "ru":  "Начинить (болгарский перец, кишки)",
+  "en":  "Fill with ___ or stuff"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Буғда пиширмоқ",
+  "ru":  "Приготовить на пару",
+  "en":  "Steam"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Кўпикни сузиб олмоқ",
+  "ru":  "Снять накипь",
+  "en":  "Skim off the scum"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Чопмоқ (товуқ, гўшт)",
+  "ru":  "Порубить (курицу, мясо)",
+  "en":  "To chop"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Ағдармоқ (қорин, ичак)",
+  "ru":  "Вывернуть наизнанку (кишки, брюшину)",
+  "en":  "Turn inside out"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Ёғоч тўқмоқ билан урмоқ",
+  "ru":  "Отбить деревянным молоточком",
+  "en":  "Beat with wooden hammer"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Эзмоқ",
+  "ru":  "Давить, выжимать",
+  "en":  "Beat, crush"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "…билан ишқалаб сингдирмоқ",
+  "ru":  "Растереть с...",
+  "en":  "Rub with ___"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Ўрама қилиб ўрамоқ",
+  "ru":  "Свернуть рулетом",
+  "en":  "Rollup …"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Қозон қопқоғини ёпмоқ",
+  "ru":  "Закрыть крышкой",
+  "en":  "Cover"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Нимталамоқ суякдан ажратмоқ",
+  "ru":  "Разрезать пополам, порубить на куски, освободить от костей",
+  "en":  "Debone, to cut"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Ун билан ишқаламоқ",
+  "ru":  "Растереть с мукой",
+  "en":  "Dredge ___ in the flour"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Ивитмоқ",
+  "ru":  "Замочить",
+  "en":  "Soak"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Гўшт майдалагичдан ўтказмоқ",
+  "ru":  "Пропустить через мясорубку",
+  "en":  "Grind"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Унга буламоқ",
+  "ru":  "Окунуть, обвалять в муке",
+  "en":  "Dip into flour or dredge ___ in the flour"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Човлида сузиб олиш",
+  "ru":  "Выловить шумовкой",
+  "en":  "Strain though a cullender"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Тухумнинг оқидан сариғини ажратмоқ",
+  "ru":  "Отделить желток",
+  "en":  "Separate egg yolk (from egg white)"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Дудламоқ",
+  "ru":  "Замариновать",
+  "en":  "Marinade"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Тахламоқ",
+  "ru":  "Сложить",
+  "en":  "Layer"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Тухумни сут билан аралаштириб қовурмоқ",
+  "ru":  "Жарить яйца с молоком",
+  "en":  "Scramble (to mix eggs with a little milk and mix again as they are being fried)"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Тешмоқ",
+  "ru":  "Проткнуть",
+  "en":  "Prick or pierce (klingfilm)"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Бошқа томонини ағдармоқ",
+  "ru":  "Перевернуть",
+  "en":  "Turn, flip (pancake) over"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Қиймаламоқ",
+  "ru":  "Сделать фарш",
+  "en":  "Mince"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Муздан эритмоқ",
+  "ru":  "Разморозить",
+  "en":  "Defrost"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Эритмоқ",
+  "ru":  "Растопить",
+  "en":  "Melt"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Пюре қилмоқ (ёғоч қошиқнинг орқаси билан)",
+  "ru":  "Сделать пюре (задней стороной деревянной ложки)",
+  "en":  "Mash ___ up here and there (with the back of a wooden spoon)"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Донини олмоқ (ичидаги)",
+  "ru":  "Очистить от семян",
+  "en":  "Seed 2"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Қайноқ сувда куйдирмоқ",
+  "ru":  "Ошпарить кипятком",
+  "en":  "Scald with boiling water"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Чақмоқ (чақилган)",
+  "ru":  "Расколоть",
+  "en":  "Shell (shelled)"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Текисламоқ (хамирни)",
+  "ru":  "Разровнять (тесто)",
+  "en":  "Flatten"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Қошиқда сурмоқ, бир қошиқ солмоқ",
+  "ru":  "Положить одну ложку",
+  "en":  "Spoon"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Бир четга олиб қўймоқ",
+  "ru":  "Оставить в сторону",
+  "en":  "Set a side"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Товуқнинг қанотларини ичига қайириб қўймоқ",
+  "ru":  "Спрятать крылья в тушку курицу, чтобы не подгорели",
+  "en":  "Fold the wings down"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Терисини …дан ажратиш",
+  "ru":  "Отделить кожицу от…",
+  "en":  "Separate the skin from the..."
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "…билан ишқаланг (артинг)",
+  "ru":  "Потереть… с",
+  "en":  "Rub… with"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "…нинг ҳамма ерига",
+  "ru":  "По всему…",
+  "en":  "All over the…"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Оёқларини …билан боғлаб қўйинг",
+  "ru":  "Связать ножки с…",
+  "en":  "Tie the legs with …"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Таъмни хуш хўр қилмоқ",
+  "ru":  "Сделать вкус приятным",
+  "en":  "Mellow out"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Ер маҳсулотларига тўла",
+  "ru":  "Полный продуктов земли",
+  "en":  "Full of earthy flavors"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Масаллиқларни сихга термоқ",
+  "ru":  "Нанизать ингредиенты на шампуры",
+  "en":  "Thread the ingredients onto skewers"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Жазламоқ",
+  "ru":  "Жарить на среднем огне",
+  "en":  "Fried on medium heat"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Думалоқ шаклга келтирмоқ",
+  "ru":  "Придать круглую форму",
+  "en":  "Shape into balls"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Кертмоқ",
+  "ru":  "Придать круглую форму",
+  "en":  "Notch"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Кетма-кет",
+  "ru":  "Делать нарезку, крошить",
+  "en":  "One after another"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Терисидан ажратиш учун оз фурсатга қайнатиб олмоқ (мева, ёнғоқ ва сабзавотларни)",
+  "ru":  "Один за другим",
+  "en":  "Blanch"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Блендердан чиқармоқ",
+  "ru":  "Бросить на некоторое время в кипящую воду, чтобы очистить от кожуры (фрукты, овощи, орехи), бланшировать",
+  "en":  "Blend"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Суягини олиб ташламоқ",
+  "ru":  "Измельчить в блендере",
+  "en":  "Bone"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Сариёғ сурмоқ",
+  "ru":  "Очистить от костей",
+  "en":  "Butter"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Гўштни майдароқ кесмоқ",
+  "ru":  "Смазать сливочным маслом",
+  "en":  "Carve"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Совутмоқ",
+  "ru":  "Остудить, охладить",
+  "en":  "Chill"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Картошкани ингичка сомонча шаклида тўғрамоқ",
+  "ru":  "Картофель мелко нарезать соломкой",
+  "en":  "Chip"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Сут ёки қаймоқдан махсус контейнер орқали сариёғини олмоқ",
+  "ru":  "Получить сливочное масло из молока или сливок специальным контейнером",
+  "en":  "Churn"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Меванинг ўрта қисмини олиб ташламоқ",
+  "ru":  "Вырезать сердцевину из фруктов",
+  "en":  "Core"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Панировкага белаб олмоқ (қопламоқ)",
+  "ru":  "Панировать",
+  "en":  "Сoat"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Чой/тушлик тайёр",
+  "ru":  "Чай/обед готов",
+  "en":  "Dinner/tea is up"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Таомни татиб кўрмоқ",
+  "ru":  "Попробовать блюдо",
+  "en":  "Dish out"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Таомни сузмоқ",
+  "ru":  "Положить, выложить блюдо",
+  "en":  "Dish up"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Таомни бойитмоқ",
+  "ru":  "Обогатить блюдо",
+  "en":  "Enrich"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Гўштнинг суягини олиб ташламоқ",
+  "ru":  "Очистить мясо от костей",
+  "en":  "Fillet"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Таом тайёрламоқ",
+  "ru":  "Готовить блюдо",
+  "en":  "Fix"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Қатлам-қатлам қилмоқ",
+  "ru":  "Делать прослойки",
+  "en":  "Flake"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Мазасини яхшилашга нимадир қўшмоқ",
+  "ru":  "Добавить что-то для улучшения вкуса",
+  "en":  "Flavour"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Ниманидир еҳтиёткорлик билан қўшишда қошиқ ёки пичоқдан фойдаланмоқ",
+  "ru":  "Использовать ложку или нож, чтобы с осторожностью что-то добавить, долить и тд.",
+  "en":  "Fold in"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Таъмни бойитмоқ",
+  "ru":  "Усилить вкус",
+  "en":  "Fortify"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Тортнинг ичига крем суртмоқ",
+  "ru":  "Смазать кремом слои торта",
+  "en":  "Frost"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Гарнир қўймоқ",
+  "ru":  "Положить гарнир",
+  "en":  "Garnish"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Ёғламоқ",
+  "ru":  "Смазать",
+  "en":  "Grease"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Балиқнинг ичларини тозаламоқ",
+  "ru":  "Выпотрошить (почистить) рыбу",
+  "en":  "Gut"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Данак/уруғининг устини олиб ташламоқ",
+  "ru":  "Вынуть косточку",
+  "en":  "Hull"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Тортга крем суртмоқ",
+  "ru":  "Смазать торт кремом",
+  "en":  "Ice"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Дамламоқ",
+  "ru":  "Дать настояться/дать упреть (плову, каше и тп.)",
+  "en":  "Infuse"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Гўштни йирик бўлакларга бўлмоқ",
+  "ru":  "Разделать мясо на крупные куски",
+  "en":  "Joint"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Шарбатини олмоқ, суюқ қилмоқ",
+  "ru":  "Разжижать",
+  "en":  "Liquidize"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Ивитиб юмшатмоқ",
+  "ru":  "Замочить, чтобы смягчить",
+  "en":  "Macerate"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Янчмоқ",
+  "ru":  "Размельчить (зерно)",
+  "en":  "Mill"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Пичоқда пўстини арчмоқ",
+  "ru":  "Очистить кожуру ножом",
+  "en":  "Pare"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Махсус мосламали қандолатчилик қопчасида крем билан безатмоқ",
+  "ru":  "Украсить кремом при помощи кондитерского мешочка",
+  "en":  "Pipe"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Патини тозаламоқ",
+  "ru":  "Ощипать",
+  "en":  "Pluck"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Нўхат ёки ловиянинг пўстини тозаламоқ",
+  "ru":  "Очистить горох или бобы от шелухи",
+  "en":  "Pod"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Пўчоғини тозаламоқ (ёнғоқ, сабзавот)",
+  "ru":  "Очистить от шелухи или от кожуры (орехи, овощи)",
+  "en":  "Shuck"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Эламоқ",
+  "ru":  "Просеять",
+  "en":  "Sift"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Терисини олмоқ",
+  "ru":  "Снять кожицу",
+  "en":  "Skin"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Зиравор солмоқ",
+  "ru":  "Положить приправу",
+  "en":  "Spice up"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Эритмоқ, муздан туширмоқ",
+  "ru":  "Разморозить",
+  "en":  "Thaw"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Маҳсулотниниг устки ва пастки қисмларини тозалаб тайёрламоқ",
+  "ru":  "Обработать (очистить) переднюю и заднюю часть продукта",
+  "en":  "Top and tail"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Таомга суюқлик солиб аралаштирмоқ (ёғ, сирка, майонез)",
+  "ru":  "Добавить в блюдо жидкость и перемешать (масло, уксус, майонез)",
+  "en":  "Toss"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Товуқнинг қанот ва оёқларини боғламоқ",
+  "ru":  "Связать крылья и ноги птицы",
+  "en":  "Truss"
+ },
+ {
+  "category_uz": "Жараён",
+  "category_ru": "Процесс",
+  "category_en": "Process",
+  "uz":  "Таомни иситмоқ",
+  "ru":  "Подогреть блюдо",
+  "en":  "Warm through"
+ },
+ {
+  "category_uz": "Кесиш шакллари",
+  "category_ru": "Размеры и форма резки",
+  "category_en": "Shape of cutting",
+  "uz":  "Юпқа",
+  "ru":  "Тонко, тонко",
+  "en":  "Thin or thinly"
+ },
+ {
+  "category_uz": "Кесиш шакллари",
+  "category_ru": "Размеры и форма резки",
+  "category_en": "Shape of cutting",
+  "uz":  "Майда",
+  "ru":  "Мелко",
+  "en":  "Finely"
+ },
+ {
+  "category_uz": "Кесиш шакллари",
+  "category_ru": "Размеры и форма резки",
+  "category_en": "Shape of cutting",
+  "uz":  "Ўртача катталик",
+  "ru":  "Средний размер",
+  "en":  "Medium dice"
+ },
+ {
+  "category_uz": "Кесиш шакллари",
+  "category_ru": "Размеры и форма резки",
+  "category_en": "Shape of cutting",
+  "uz":  "Қирғичдан ўтказилган",
+  "ru":  "Натертая на терке",
+  "en":  "Grated"
+ },
+ {
+  "category_uz": "Кесиш шакллари",
+  "category_ru": "Размеры и форма резки",
+  "category_en": "Shape of cutting",
+  "uz":  "Айлана (ҳалқа-ҳалқа)",
+  "ru":  "Круги (кольца)",
+  "en":  "Rings"
+ },
+ {
+  "category_uz": "Кесиш шакллари",
+  "category_ru": "Размеры и форма резки",
+  "category_en": "Shape of cutting",
+  "uz":  "Йирикроқ кесиш",
+  "ru":  "Крупно нарезать",
+  "en":  "Larger dice"
+ },
+ {
+  "category_uz": "Кесиш шакллари",
+  "category_ru": "Размеры и форма резки",
+  "category_en": "Shape of cutting",
+  "uz":  "Бутунлигича",
+  "ru":  "Целиком",
+  "en":  "Whole"
+ },
+ {
+  "category_uz": "Кесиш шакллари",
+  "category_ru": "Размеры и форма резки",
+  "category_en": "Shape of cutting",
+  "uz":  "Ярим см қалинликда",
+  "ru":  "Вырезать шириной пол см",
+  "en":  "Cut half a cm wide"
+ },
+ {
+  "category_uz": "Кесиш шакллари",
+  "category_ru": "Размеры и форма резки",
+  "category_en": "Shape of cutting",
+  "uz":  "Янчилган",
+  "ru":  "Измельченный",
+  "en":  "Ground"
+ },
+ {
+  "category_uz": "Кесиш шакллари",
+  "category_ru": "Размеры и форма резки",
+  "category_en": "Shape of cutting",
+  "uz":  "Майда бўлакларга бўлинган",
+  "ru":  "Мелко нарезанные",
+  "en":  "Chopped into pieces"
+ },
+ {
+  "category_uz": "Кесиш шакллари",
+  "category_ru": "Размеры и форма резки",
+  "category_en": "Shape of cutting",
+  "uz":  "Майдароқ кесилган",
+  "ru":  "Мелко нарезанные",
+  "en":  "Smaller dice"
+ },
+ {
+  "category_uz": "Кесиш шакллари",
+  "category_ru": "Размеры и форма резки",
+  "category_en": "Shape of cutting",
+  "uz":  "50х50 катталикда",
+  "ru":  "Размером 50х50",
+  "en":  " 50x50"
+ },
+ {
+  "category_uz": "Кесиш шакллари",
+  "category_ru": "Размеры и форма резки",
+  "category_en": "Shape of cutting",
+  "uz":  "Қаламча шаклда кесилган",
+  "ru":  "Порезанное соломкой",
+  "en":  "Batonnet"
+ },
+ {
+  "category_uz": "Кесиш шакллари",
+  "category_ru": "Размеры и форма резки",
+  "category_en": "Shape of cutting",
+  "uz":  "Япроқ-япроқ",
+  "ru":  "Дольки",
+  "en":  "Plateau"
+ },
+ {
+  "category_uz": "Кесиш шакллари",
+  "category_ru": "Размеры и форма резки",
+  "category_en": "Shape of cutting",
+  "uz":  "4 га бўлинган",
+  "ru":  "Разделенный на четыре части",
+  "en":  "Cut into four pieces"
+ },
+ {
+  "category_uz": "Кесиш шакллари",
+  "category_ru": "Размеры и форма резки",
+  "category_en": "Shape of cutting",
+  "uz":  "Арча шаклида",
+  "ru":  "В форме елочки",
+  "en":  "In a shape of fir-tree"
+ },
+ {
+  "category_uz": "Кесиш шакллари",
+  "category_ru": "Размеры и форма резки",
+  "category_en": "Shape of cutting",
+  "uz":  "Тасма шаклида",
+  "ru":  "В форме полоски",
+  "en":  "Strip"
+ },
+ {
+  "category_uz": "Кесиш шакллари",
+  "category_ru": "Размеры и форма резки",
+  "category_en": "Shape of cutting",
+  "uz":  "Йирик тўртбурчак",
+  "ru":  "Крупные кубики",
+  "en":  "Large dice"
+ },
+ {
+  "category_uz": "Кесиш шакллари",
+  "category_ru": "Размеры и форма резки",
+  "category_en": "Shape of cutting",
+  "uz":  "Тасмасимон",
+  "ru":  "Как лента",
+  "en":  "Strip"
+ },
+ {
+  "category_uz": "Кесиш шакллари",
+  "category_ru": "Размеры и форма резки",
+  "category_en": "Shape of cutting",
+  "uz":  "Майда тўртбурчак тўғрамоқ",
+  "ru":  "Нарезать маленькими кубиками",
+  "en":  "Dice"
+ },
+ {
+  "category_uz": "Кесиш шакллари",
+  "category_ru": "Размеры и форма резки",
+  "category_en": "Shape of cutting",
+  "uz":  "Сомонча",
+  "ru":  "Соломка",
+  "en":  "Julienne"
+ },
+ {
+  "category_uz": "Кесиш шакллари",
+  "category_ru": "Размеры и форма резки",
+  "category_en": "Shape of cutting",
+  "uz":  "Меваларни тўртга бўлгандаги шакл",
+  "ru":  "Дольки",
+  "en":  "Wedge"
+ },
+ {
+  "category_uz": "Кесиш шакллари",
+  "category_ru": "Размеры и форма резки",
+  "category_en": "Shape of cutting",
+  "uz":  "Нўхотдек",
+  "ru":  "Размером с горошину (шт)",
+  "en":  "Pea-sized (piece)"
+ },
+ {
+  "category_uz": "Кесиш шакллари",
+  "category_ru": "Размеры и форма резки",
+  "category_en": "Shape of cutting",
+  "uz":  "Думалоқламоқ (хамирни)",
+  "ru":  "Сформировать колобочки",
+  "en":  "Form a ball"
+ },
+ {
+  "category_uz": "Кесиш шакллари",
+  "category_ru": "Размеры и форма резки",
+  "category_en": "Shape of cutting",
+  "uz":  "Майда тўртбурчак",
+  "ru":  "Мелкие квадратики",
+  "en":  "Brunoise"
+ },
+ {
+  "category_uz": "Кесиш шакллари",
+  "category_ru": "Размеры и форма резки",
+  "category_en": "Shape of cutting",
+  "uz":  "Кўкатларни майда узун тўғрагандаги шакл",
+  "ru":  "Зелень нарезанная мелоко/крупно по длине",
+  "en":  "Chiffonade"
+ },
+ {
+  "category_uz": "Ивитишлар",
+  "category_ru": "Замачивание",
+  "category_en": "Soaking",
+  "uz":  "Ивимоқ",
+  "ru":  "Замачивание",
+  "en":  "Soaking"
+ },
+ {
+  "category_uz": "Ивитишлар",
+  "category_ru": "Замачивание",
+  "category_en": "Soaking",
+  "uz":  "Ивитмоқ",
+  "ru":  "Замочить",
+  "en":  "Soak"
+ },
+ {
+  "category_uz": "Ивитишлар",
+  "category_ru": "Замачивание",
+  "category_en": "Soaking",
+  "uz":  "Ботириб қўймоқ",
+  "ru":  "Обмакнуть",
+  "en":  "Soak"
+ },
+ {
+  "category_uz": "Ивитишлар",
+  "category_ru": "Замачивание",
+  "category_en": "Soaking",
+  "uz":  "Соус суюқлигини таъминламоқ",
+  "ru":  "Сделать соус жидким",
+  "en":  "Keep the sauce moist"
+ },
+ {
+  "category_uz": "Ивитишлар",
+  "category_ru": "Замачивание",
+  "category_en": "Soaking",
+  "uz":  "Ивимоқ",
+  "ru":  "Мокнуть, промокнуть",
+  "en":  "Curdle"
+ },
+ {
+  "category_uz": "Ишлов бериш, саралашлар",
+  "category_ru": "Обработка",
+  "category_en": "Sorting",
+  "uz":  "Саралаб олмоқ",
+  "ru":  "Отсортировать (сортировка)",
+  "en":  "To sort (sorting)"
+ },
+ {
+  "category_uz": "Ишлов бериш, саралашлар",
+  "category_ru": "Обработка",
+  "category_en": "Sorting",
+  "uz":  "Сувини силқитмоқ",
+  "ru":  "Стряхнуть воду",
+  "en":  "Strain"
+ },
+ {
+  "category_uz": "Ишлов бериш, саралашлар",
+  "category_ru": "Обработка",
+  "category_en": "Sorting",
+  "uz":  "Ишловдан ўтказмоқ",
+  "ru":  "Подвергнуть обработке",
+  "en":  "Wash 1"
+ },
+ {
+  "category_uz": "Ишлов бериш, саралашлар",
+  "category_ru": "Обработка",
+  "category_en": "Sorting",
+  "uz":  "Баргини олмоқ",
+  "ru":  "Удалить листья",
+  "en":  "Remove the leaves"
+ },
+ {
+  "category_uz": "Ишлов бериш, саралашлар",
+  "category_ru": "Обработка",
+  "category_en": "Sorting",
+  "uz":  "Баргини қирқмоқ",
+  "ru":  "Срезать лист",
+  "en":  "Cut out ___ leaf"
+ },
+ {
+  "category_uz": "Ишлов бериш, саралашлар",
+  "category_ru": "Обработка",
+  "category_en": "Sorting",
+  "uz":  "Пўстлоғидан тозаламоқ",
+  "ru":  "Очистить от кожуры",
+  "en":  "Peel"
+ },
+ {
+  "category_uz": "Ишлов бериш, саралашлар",
+  "category_ru": "Обработка",
+  "category_en": "Sorting",
+  "uz":  "Ювмоқ",
+  "ru":  "Помыть",
+  "en":  "Wash 2"
+ },
+ {
+  "category_uz": "Ишлов бериш, саралашлар",
+  "category_ru": "Обработка",
+  "category_en": "Sorting",
+  "uz":  "Артилган (арчилган)",
+  "ru":  "Очищенные/ очистить/ снять кожицу",
+  "en":  "Peeled"
+ },
+ {
+  "category_uz": "Ишлов бериш, саралашлар",
+  "category_ru": "Обработка",
+  "category_en": "Sorting",
+  "uz":  "Чайиб олмоқ",
+  "ru":  "Прополоскать",
+  "en":  "Rinse"
+ },
+ {
+  "category_uz": "Ишлов бериш, саралашлар",
+  "category_ru": "Обработка",
+  "category_en": "Sorting",
+  "uz":  "Мағзини туймоқ",
+  "ru":  "Толочь зерна",
+  "en":  "Shell"
+ },
+ {
+  "category_uz": "Ишлов бериш, саралашлар",
+  "category_ru": "Обработка",
+  "category_en": "Sorting",
+  "uz":  "Илиқ сувда ювмоқ",
+  "ru":  "Промыть в теплой воде",
+  "en":  "Wash in warm water"
+ },
+ {
+  "category_uz": "Ишлов бериш, саралашлар",
+  "category_ru": "Обработка",
+  "category_en": "Sorting",
+  "uz":  "Пичоқ билан қириб ташламоқ",
+  "ru":  "Скрести ножом",
+  "en":  "Scrape with knife"
+ },
+ {
+  "category_uz": "Ишлов бериш, саралашлар",
+  "category_ru": "Обработка",
+  "category_en": "Sorting",
+  "uz":  "Қуритмоқ",
+  "ru":  "Высушить",
+  "en":  "Dry out"
+ },
+ {
+  "category_uz": "Ишлов бериш, саралашлар",
+  "category_ru": "Обработка",
+  "category_en": "Sorting",
+  "uz":  "Тукини куйдирмоқ",
+  "ru":  "Сжечь пух",
+  "en":  "Burn the hair"
+ },
+ {
+  "category_uz": "Ишлов бериш, саралашлар",
+  "category_ru": "Обработка",
+  "category_en": "Sorting",
+  "uz":  "Артмасдан, артилмаган",
+  "ru":  "Неочищенный",
+  "en":  "Unpeeled"
+ },
+ {
+  "category_uz": "Ишлов бериш, саралашлар",
+  "category_ru": "Обработка",
+  "category_en": "Sorting",
+  "uz":  "Тухум пўчоғини тозаламоқ",
+  "ru":  "Очистить яйцо от скорлупы",
+  "en":  "Take the shell off the eggs"
+ },
+ {
+  "category_uz": "Ишлов бериш, саралашлар",
+  "category_ru": "Обработка",
+  "category_en": "Sorting",
+  "uz":  "Олиб ташламоқ (кўкатнинг боши ва ўзагини олиш)",
+  "ru":  "Отрезать стебельки зелени",
+  "en":  "Discard"
+ },
+ {
+  "category_uz": "Ишлов бериш, саралашлар",
+  "category_ru": "Обработка",
+  "category_en": "Sorting",
+  "uz":  "Ўйиб олмоқ",
+  "ru":  "Выдавить (в значении вытащить из чего-то)",
+  "en":  "Make a slit in"
+ },
+ {
+  "category_uz": "Ишлов бериш, саралашлар",
+  "category_ru": "Обработка",
+  "category_en": "Sorting",
+  "uz":  "Яхшилаб ювмоқ",
+  "ru":  "Тщательно промыть",
+  "en":  "Wash ___ thoroughly"
+ },
+ {
+  "category_uz": "Ишлов бериш, саралашлар",
+  "category_ru": "Обработка",
+  "category_en": "Sorting",
+  "uz":  "Уруғидан тозаламоқ",
+  "ru":  "Очистить от семян",
+  "en":  "De-seed"
+ },
+ {
+  "category_uz": "Ишлов бериш, саралашлар",
+  "category_ru": "Обработка",
+  "category_en": "Sorting",
+  "uz":  "(…га )Тухум чақмоқ",
+  "ru":  "Разбить яйца (в ...)",
+  "en":  "Crack eggs into ___ or Break the eggs"
+ },
+ {
+  "category_uz": "Ишлов бериш, саралашлар",
+  "category_ru": "Обработка",
+  "category_en": "Sorting",
+  "uz":  "Данагидан тозаламоқ",
+  "ru":  "Очистить от косточек",
+  "en":  "Remove pits"
+ },
+ {
+  "category_uz": "Ишлов бериш, саралашлар",
+  "category_ru": "Обработка",
+  "category_en": "Sorting",
+  "uz":  "Шарбатини (сувини) олмоқ",
+  "ru":  "Выжать сок",
+  "en":  "Strain the juice"
+ },
+ {
+  "category_uz": "Ишлов бериш, саралашлар",
+  "category_ru": "Обработка",
+  "category_en": "Sorting",
+  "uz":  "Тўкиб ташламоқ",
+  "ru":  "Слить",
+  "en":  "Pour off"
+ },
+ {
+  "category_uz": "Ишлов бериш, саралашлар",
+  "category_ru": "Обработка",
+  "category_en": "Sorting",
+  "uz":  "Доналарини (уруғини) ажратиб олмоқ",
+  "ru":  "Отделить от косточек (семян)",
+  "en":  "Seed 1"
+ },
+ {
+  "category_uz": "Ишлов бериш, саралашлар",
+  "category_ru": "Обработка",
+  "category_en": "Sorting",
+  "uz":  "Артиб қўймоқ (тозалаш ёки қуритиш учун)",
+  "ru":  "Протереть (в значении очистить), просушить",
+  "en":  "Wipe"
+ },
+ {
+  "category_uz": "Ишлов бериш, саралашлар",
+  "category_ru": "Обработка",
+  "category_en": "Sorting",
+  "uz":  "Ичини тозаламоқ (булғор қалампири ва б.)",
+  "ru":  "Очистить внутренность чего-либо",
+  "en":  "Scoop out …"
+ },
+ {
+  "category_uz": "Сепиш, қуйиш ва солишлар",
+  "category_ru": "Процесс заправки",
+  "category_en": "Sprinkling",
+  "uz":  "Taъбгa кўра тузлаш",
+  "ru":  "Посолить по вкусу",
+  "en":  "Season to taste with salt"
+ },
+ {
+  "category_uz": "Сепиш, қуйиш ва солишлар",
+  "category_ru": "Процесс заправки",
+  "category_en": "Sprinkling",
+  "uz":  "Туз сепмоқ",
+  "ru":  "Посолить",
+  "en":  "Season"
+ },
+ {
+  "category_uz": "Сепиш, қуйиш ва солишлар",
+  "category_ru": "Процесс заправки",
+  "category_en": "Sprinkling",
+  "uz":  "Ёғ қўшмоқ",
+  "ru":  "Добавить масло, налить масло",
+  "en":  "Add oil or pour oil"
+ },
+ {
+  "category_uz": "Сепиш, қуйиш ва солишлар",
+  "category_ru": "Процесс заправки",
+  "category_en": "Sprinkling",
+  "uz":  "Туз ва қалампир сепмоқ",
+  "ru":  "Заправить солью и перцем",
+  "en":  "Season to taste with salt and pepper"
+ },
+ {
+  "category_uz": "Сепиш, қуйиш ва солишлар",
+  "category_ru": "Процесс заправки",
+  "category_en": "Sprinkling",
+  "uz":  "Соусли аралашма қўшиб аралаштириш",
+  "ru":  "Заправить ...",
+  "en":  "Dress with (in)"
+ },
+ {
+  "category_uz": "Сепиш, қуйиш ва солишлар",
+  "category_ru": "Процесс заправки",
+  "category_en": "Sprinkling",
+  "uz":  "Мурч сепмоқ",
+  "ru":  "Поперчить",
+  "en":  "Add pepper"
+ },
+ {
+  "category_uz": "Сепиш, қуйиш ва солишлар",
+  "category_ru": "Процесс заправки",
+  "category_en": "Sprinkling",
+  "uz":  "Солмоқ",
+  "ru":  "Положить",
+  "en":  "Place or set aside or tip"
+ },
+ {
+  "category_uz": "Сепиш, қуйиш ва солишлар",
+  "category_ru": "Процесс заправки",
+  "category_en": "Sprinkling",
+  "uz":  "Қуймоқ (ичига)",
+  "ru":  "Налить",
+  "en":  "Pour over"
+ },
+ {
+  "category_uz": "Сепиш, қуйиш ва солишлар",
+  "category_ru": "Процесс заправки",
+  "category_en": "Sprinkling",
+  "uz":  "Сурмоқ",
+  "ru":  "Смазать",
+  "en":  "Spread"
+ },
+ {
+  "category_uz": "Сепиш, қуйиш ва солишлар",
+  "category_ru": "Процесс заправки",
+  "category_en": "Sprinkling",
+  "uz":  "Қўшмоқ",
+  "ru":  "Добавить",
+  "en":  "Add"
+ },
+ {
+  "category_uz": "Сепиш, қуйиш ва солишлар",
+  "category_ru": "Процесс заправки",
+  "category_en": "Sprinkling",
+  "uz":  "___ дан икки ошқошиқ сепмоқ",
+  "ru":  "Насыпать две столовые ложки…",
+  "en":  "Sprinkle in two tablespoons of ___"
+ },
+ {
+  "category_uz": "Сепиш, қуйиш ва солишлар",
+  "category_ru": "Процесс заправки",
+  "category_en": "Sprinkling",
+  "uz":  "Сепмоқ",
+  "ru":  "Посыпать",
+  "en":  "Sprinkle"
+ },
+ {
+  "category_uz": "Сепиш, қуйиш ва солишлар",
+  "category_ru": "Процесс заправки",
+  "category_en": "Sprinkling",
+  "uz":  "Бир чимдим ___ сепмоқ",
+  "ru":  "Добавить щепотку ___",
+  "en":  "Add a pinch of ___"
+ },
+ {
+  "category_uz": "Аралаштиришлар",
+  "category_ru": "Перемешивание",
+  "category_en": "Stirring",
+  "uz":  "... билан аралаштирмоқ",
+  "ru":  "Смешать ... с ...",
+  "en":  "Combine with or mix ___ with ___"
+ },
+ {
+  "category_uz": "Аралаштиришлар",
+  "category_ru": "Перемешивание",
+  "category_en": "Stirring",
+  "uz":  "Ёғ қўшмоқ",
+  "ru":  "Добавить масло",
+  "en":  "Add oil"
+ },
+ {
+  "category_uz": "Аралаштиришлар",
+  "category_ru": "Перемешивание",
+  "category_en": "Stirring",
+  "uz":  "Сузма қўшмоқ",
+  "ru":  "Добавить сузму",
+  "en":  "Add suzma"
+ },
+ {
+  "category_uz": "Аралаштиришлар",
+  "category_ru": "Перемешивание",
+  "category_en": "Stirring",
+  "uz":  "Аралаштирмоқ, ковламоқ",
+  "ru":  "Размешать, мешать",
+  "en":  "Stir"
+ },
+ {
+  "category_uz": "Аралаштиришлар",
+  "category_ru": "Перемешивание",
+  "category_en": "Stirring",
+  "uz":  "Ўртада аралаштириб турмоқ",
+  "ru":  "Помешивать в середине процесса",
+  "en":  "Stir halfway through"
+ },
+ {
+  "category_uz": "Аралаштиришлар",
+  "category_ru": "Перемешивание",
+  "category_en": "Stirring",
+  "uz":  "Ўртада бир марта аралаштириб қўймоқ",
+  "ru":  "Один раз перемешать в середине процесса",
+  "en":  "Stirring once halfway through"
+ },
+ {
+  "category_uz": "Аралаштиришлар",
+  "category_ru": "Перемешивание",
+  "category_en": "Stirring",
+  "uz":  "Таъмлар уйғунлашиши учун яхшилаб аралаштирмоқ",
+  "ru":  "Хорошо перемешать, чтобы объединить вкусы",
+  "en":  "Mix well to combine the flavors"
+ },
+ {
+  "category_uz": "Аралаштиришлар",
+  "category_ru": "Перемешивание",
+  "category_en": "Stirring",
+  "uz":  "Секинлик билан аралаштирмоқ",
+  "ru":  "Аккуратно перемешать",
+  "en":  "Stir gently"
+ },
+ {
+  "category_uz": "Аралаштиришлар",
+  "category_ru": "Перемешивание",
+  "category_en": "Stirring",
+  "uz":  "Тагига ёпишмаслик (олмаслик) учун тез-тез аралаштириб турмоқ",
+  "ru":  "Часто помешивать, чтобы не прилипало ко дну (не подгорело)",
+  "en":  "Stir often so it does not stick to the bottom of the pan"
+ },
+ {
+  "category_uz": "Аралаштиришлар",
+  "category_ru": "Перемешивание",
+  "category_en": "Stirring",
+  "uz":  "Кўпиртириб аралаштирмоқ",
+  "ru":  "Взбить до появления пены",
+  "en":  "Whip"
+ },
+ {
+  "category_uz": "Аралаштиришлар",
+  "category_ru": "Перемешивание",
+  "category_en": "Stirring",
+  "uz":  "Массага массани аралаштириш(масалан сувга сирка ва ҳк.з)",
+  "ru":  "Разбавить массу на массу",
+  "en":  "Whisk 2"
+ },
+ {
+  "category_uz": "Аралаштиришлар",
+  "category_ru": "Перемешивание",
+  "category_en": "Stirring",
+  "uz":  "Миксерда ёки бошқа электрли анжомда аралаштирмоқ",
+  "ru":  "Взбить миксером или другим электрическим приспособлением",
+  "en":  "Whizz"
+ },
+ {
+  "category_uz": "Вақтлар",
+  "category_ru": "Время",
+  "category_en": "Times",
+  "uz":  "Маълум вақтгача",
+  "ru":  "В определенное время",
+  "en":  "For a finite period of time"
+ },
+ {
+  "category_uz": "Вақтлар",
+  "category_ru": "Время",
+  "category_en": "Times",
+  "uz":  "30 дақиқа давомида",
+  "ru":  "В течение 30 минут",
+  "en":  "For 30 minutes"
+ },
+ {
+  "category_uz": "Вақтлар",
+  "category_ru": "Время",
+  "category_en": "Times",
+  "uz":  "1 соат давомида",
+  "ru":  "В течение часа",
+  "en":  "For an hour"
+ },
+ {
+  "category_uz": "Вақтлар",
+  "category_ru": "Время",
+  "category_en": "Times",
+  "uz":  "Вақти-вақти билан",
+  "ru":  "Время от времени",
+  "en":  "From time to time"
+ },
+ {
+  "category_uz": "Вақтлар",
+  "category_ru": "Время",
+  "category_en": "Times",
+  "uz":  "Пишишидан ___ олдин",
+  "ru":  "___ до готовности",
+  "en":  "___ minutes before done"
+ },
+ {
+  "category_uz": "Вақтлар",
+  "category_ru": "Время",
+  "category_en": "Times",
+  "uz":  "15-20 дақиқа давомида пиширмоқ",
+  "ru":  "Готовить в течение 15-20 минут",
+  "en":  "Cook for a further 15-20 minutes"
+ },
+ {
+  "category_uz": "Вақтлар",
+  "category_ru": "Время",
+  "category_en": "Times",
+  "uz":  "… бўлгунча, … ҳосил бўлгунча",
+  "ru":  "Пока не появится…",
+  "en":  "Until you are left with"
+ },
+ {
+  "category_uz": "Вақтлар",
+  "category_ru": "Время",
+  "category_en": "Times",
+  "uz":  "Қайнаб чиққунча қолдирмоқ",
+  "ru":  "Оставить, пока не закипит",
+  "en":  "Leave to evaporate"
+ },
+ {
+  "category_uz": "Вақтлар",
+  "category_ru": "Время",
+  "category_en": "Times",
+  "uz":  "Керакли кўриниш ҳосил бўлгунча пишириш",
+  "ru":  "Готовить пока не появится нужный цвет",
+  "en":  "Cooking until reaching the desired consistency"
+ },
+ {
+  "category_uz": "Вақтлар",
+  "category_ru": "Время",
+  "category_en": "Times",
+  "uz":  "___ (соус) қуюлгунча ___",
+  "ru":  "Пока ___ (соус) не загустеет",
+  "en":  "Until the ___ (sauce) begins to thicken"
+ },
+ {
+  "category_uz": "Вақтлар",
+  "category_ru": "Время",
+  "category_en": "Times",
+  "uz":  "Кўпиклар пайдо бўлгунча",
+  "ru":  "Пока не появится пена",
+  "en":  "Until bubbles pop on the surface"
+ },
+ {
+  "category_uz": "Вақтлар",
+  "category_ru": "Время",
+  "category_en": "Times",
+  "uz":  "Тилла ранг бўлгунча",
+  "ru":  "До золотистого цвета",
+  "en":  "Until golden"
+ },
+ {
+  "category_uz": "Вақтлар",
+  "category_ru": "Время",
+  "category_en": "Times",
+  "uz":  "…ни деярли қайнагунча иситмоқ",
+  "ru":  "Нагревать… до закипания",
+  "en":  "Heat ___ until almost boiling"
+ }
+]

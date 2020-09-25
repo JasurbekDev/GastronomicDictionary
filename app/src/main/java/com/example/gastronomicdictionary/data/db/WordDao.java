@@ -22,7 +22,7 @@ public interface WordDao {
     @Query("SELECT * FROM word_table WHERE id = :id")
     LiveData<Word> getWordById(int id);
 
-    @Query("SELECT * FROM word_table WHERE categoryUz = :categoryName")
+    @Query("SELECT * FROM word_table WHERE categoryEn = :categoryName")
     LiveData<List<Word>> getWordsByCategoryName(String categoryName);
 
 }

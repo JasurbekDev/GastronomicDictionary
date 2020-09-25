@@ -10,15 +10,16 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:transitionName="word_uz_transition"
+        android:maxLines="2"
+        android:ellipsize="end"
         android:text="Hayrli kun"
         android:textSize="25sp" />
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
-        android:layout_marginBottom="20dp">
+        android:paddingTop="20dp"
+        android:paddingBottom="20dp">
 
         <FrameLayout
             android:layout_width="0dp"
@@ -31,15 +32,14 @@
                 android:layout_height="150dp"
                 android:layout_gravity="center"
                 android:scaleType="centerCrop"
-                android:transitionName="food_image_transition"
-                android:src="@drawable/desert" />
+                android:src="@drawable/ic_launcher_foreground" />
 
         </FrameLayout>
 
         <LinearLayout
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:layout_marginLeft="16dp"
+            android:paddingLeft="16dp"
             android:layout_weight="1"
             android:gravity="center_vertical"
             android:orientation="vertical">
@@ -48,7 +48,8 @@
                 android:id="@+id/wordRuTextView"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:transitionName="word_ru_transition"
+                android:maxLines="2"
+                android:ellipsize="end"
                 android:text="Good afternoon"
                 android:textSize="18sp" />
 
@@ -56,14 +57,18 @@
                 android:id="@+id/wordEnTextView"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:transitionName="word_en_transition"
+                android:maxLines="2"
+                android:ellipsize="end"
                 android:text="Good afternoon"
                 android:textSize="18sp" />
 
             <Button
                 android:id="@+id/bottomSheetButton"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="90dp"
+                android:layout_height="35dp"
+                android:background="@drawable/see_more_btn_bg"
+                android:textColor="@android:color/white"
+                android:layout_marginTop="10dp"
                 android:textAllCaps="false"
                 android:text="See more" />
 

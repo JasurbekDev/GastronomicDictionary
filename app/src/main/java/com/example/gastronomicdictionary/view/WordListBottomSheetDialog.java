@@ -39,15 +39,18 @@ public class WordListBottomSheetDialog extends BottomSheetDialogFragment {
         final String wordUz = bundle.getString("wordUz");
         final String wordRu = bundle.getString("wordRu");
         final String wordEn = bundle.getString("wordEn");
+        final int wordImageId = Integer.parseInt(bundle.getString("wordImageId"));
 
         wordUzTextView.setText(wordUz);
         wordRuTextView.setText(wordRu);
         wordEnTextView.setText(wordEn);
+        
+        wordImage.setImageResource(wordImageId);
 
         bottomSheetButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                bottomSheetListener.onBottomSheetButtonClick(wordImage, wordUz, wordRu, wordEn, wordRuTextView, wordEnTextView);
+                bottomSheetListener.onBottomSheetButtonClick(wordImage, wordImageId, wordUz, wordRu, wordEn, wordRuTextView, wordEnTextView);
             }
         });
 
@@ -66,6 +69,6 @@ public class WordListBottomSheetDialog extends BottomSheetDialogFragment {
     }
 
     public interface BottomSheetListener {
-        void onBottomSheetButtonClick(ImageView wordImage, String wordUz, String wordRu, String wordEn, TextView wordRuTextView, TextView wordEnTextView);
+        void onBottomSheetButtonClick(ImageView wordImage, int wordImageId, String wordUz, String wordRu, String wordEn, TextView wordRuTextView, TextView wordEnTextView);
     }
 }

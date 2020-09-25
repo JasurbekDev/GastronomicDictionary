@@ -9,6 +9,7 @@ import androidx.lifecycle.ViewModel;
 
 import com.example.gastronomicdictionary.data.WordRepositoryImpl;
 import com.example.gastronomicdictionary.data.models.Category;
+import com.example.gastronomicdictionary.data.models.Word;
 
 import java.util.List;
 
@@ -22,7 +23,11 @@ public class MainActivityViewModel extends AndroidViewModel {
         categories = wordRepository.getCategoryNames();
     }
 
-    public LiveData<List<Category>> getCategoryNames() {
-        return categories;
+    public LiveData<List<Word>> getAllWords() {
+        return wordRepository.getAllWords();
     }
+
+//    public LiveData<List<Category>> getCategoryNames() {
+//        return categories;
+//    }
 }

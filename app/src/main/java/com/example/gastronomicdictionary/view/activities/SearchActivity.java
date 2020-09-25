@@ -2,6 +2,7 @@ package com.example.gastronomicdictionary.view.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.SearchView;
+import androidx.core.view.MotionEventCompat;
 import androidx.core.view.ViewCompat;
 import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProviders;
@@ -16,6 +17,7 @@ import android.transition.ChangeBounds;
 import android.transition.Fade;
 import android.transition.Transition;
 import android.util.Pair;
+import android.view.MotionEvent;
 import android.view.View;
 import android.view.animation.DecelerateInterpolator;
 import android.widget.ImageView;
@@ -68,7 +70,7 @@ public class SearchActivity extends AppCompatActivity implements WordListAdapter
 //        wordList.add(new Word("Category Name 1", "Category Name 1", "Category Name 1", "Salom5", "Привет", "Hello"));
 //        wordList.add(new Word("Category Name 1", "Category Name 1", "Category Name 1", "Salom6", "Привет", "Hello"));
 
-        adapter = new WordListAdapter(new ArrayList<Word>(), this, true, wordNotFoundTextView);
+        adapter = new WordListAdapter(this, new ArrayList<Word>(), this, true, wordNotFoundTextView);
         searchActivityRecyclerView.setLayoutManager(new LinearLayoutManager(this));
         searchActivityRecyclerView.setAdapter(adapter);
 
@@ -117,25 +119,73 @@ public class SearchActivity extends AppCompatActivity implements WordListAdapter
         bundle.putString("wordUz", wordUz);
         bundle.putString("wordRu", wordRu);
         bundle.putString("wordEn", wordEn);
+
+        String formattedName = getFormattedName(wordEn);
+        String wordNameEn = Integer.toString(getResources().getIdentifier(formattedName, "drawable", getPackageName())).toLowerCase();
+
+        bundle.putString("wordImageId", wordNameEn);
         bottomSheet.setArguments(bundle);
         bottomSheet.show(getSupportFragmentManager(), "wordListBottomSheet");
     }
 
+    public static String getFormattedName(String word) {
+        String formattedName = word.toLowerCase();
+        if (formattedName.contains(" ")) {
+            String[] s = formattedName.split(" ");
+            formattedName = "";
+            for (int i = 0; i < s.length; i++) {
+                String suffix = (i < s.length - 1) ? "_" : "";
+                formattedName += s[i].toLowerCase() + suffix;
+            }
+        }
+        if (formattedName.contains("-")) {
+            String[] s = formattedName.split("-");
+            formattedName = "";
+            for (int i = 0; i < s.length; i++) {
+                String suffix = (i < s.length - 1) ? "_" : "";
+                formattedName += s[i].toLowerCase() + suffix;
+            }
+        }
+        if (formattedName.contains("’")) {
+            String[] s = formattedName.split("’");
+            formattedName = "";
+            for (int i = 0; i < s.length; i++) {
+//                String suffix = (i < s.length - 1) ? "_" : "";
+                formattedName += s[i].toLowerCase();
+            }
+        }
+        if (formattedName.contains("(")) {
+            formattedName = formattedName.substring(0, formattedName.indexOf("(")).trim();
+            if (formattedName.substring(formattedName.length() - 1).equals("_")) {
+                formattedName = formattedName.substring(0, formattedName.length() - 1);
+            }
+        }
+        if (formattedName.contains("–")) {
+            formattedName = formattedName.split("–")[0];
+            if (formattedName.substring(formattedName.length() - 1).equals("_")) {
+                formattedName = formattedName.substring(0, formattedName.length() - 1);
+            }
+        }
+        return formattedName;
+    }
+
     @Override
-    public void onBottomSheetButtonClick(ImageView wordImage, String wordUz, String wordRu, String wordEn, TextView wordRuTextView, TextView wordEnTextView) {
+    public void onBottomSheetButtonClick(ImageView wordImage, int wordImageId, String wordUz, String wordRu, String wordEn, TextView wordRuTextView, TextView wordEnTextView) {
         Intent intent = new Intent(SearchActivity.this, WordDetailsActivity.class);
         intent.putExtra("wordUz", wordUz);
         intent.putExtra("wordRu", wordRu);
         intent.putExtra("wordEn", wordEn);
+        intent.putExtra("wordImageId", Integer.toString(wordImageId));
 
-        if (sdk >= Build.VERSION_CODES.LOLLIPOP) {
-            Pair wordImageAnim = Pair.create(wordImage, ViewCompat.getTransitionName(wordImage));
-            Pair wordRuAnim = Pair.create(wordRuTextView, ViewCompat.getTransitionName(wordRuTextView));
-            Pair wordEnAnim = Pair.create(wordEnTextView, ViewCompat.getTransitionName(wordEnTextView));
-            ActivityOptions options = ActivityOptions.makeSceneTransitionAnimation(SearchActivity.this, wordImageAnim, wordRuAnim, wordEnAnim);
-            startActivity(intent, options.toBundle());
-        } else {
-            startActivity(intent);
-        }
+//        if (sdk >= Build.VERSION_CODES.LOLLIPOP) {
+//            Pair wordImageAnim = Pair.create(wordImage, ViewCompat.getTransitionName(wordImage));
+//            Pair wordRuAnim = Pair.create(wordRuTextView, ViewCompat.getTransitionName(wordRuTextView));
+//            Pair wordEnAnim = Pair.create(wordEnTextView, ViewCompat.getTransitionName(wordEnTextView));
+////            ActivityOptions options = ActivityOptions.makeSceneTransitionAnimation(SearchActivity.this, wordImageAnim);
+//            startActivity(intent);
+//        } else {
+//            startActivity(intent);
+//        }
+        startActivity(intent);
     }
 }
