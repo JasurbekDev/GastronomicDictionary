@@ -1,13 +1,10 @@
 package com.example.gastronomicdictionary.view.adapters;
 
-import android.app.Application;
 import android.content.Context;
-import android.content.Intent;
 import android.content.res.Resources;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.drawable.BitmapDrawable;
-import android.graphics.drawable.Drawable;
 import android.util.DisplayMetrics;
 import android.util.Log;
 import android.util.TypedValue;
@@ -23,7 +20,6 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.gastronomicdictionary.R;
 import com.example.gastronomicdictionary.data.models.Category;
-import com.example.gastronomicdictionary.view.activities.SearchActivity;
 
 import java.util.List;
 
@@ -106,7 +102,6 @@ public class CategoryCardAdapter extends RecyclerView.Adapter<CategoryCardAdapte
                     int h = bmp.getHeight();
 
                     Bitmap resBitmap = ((BitmapDrawable) mContext.getResources().getDrawable(category.getCategoryImageResourceId())).getBitmap();
-//            Drawable drawable = mContext.getResources().getDrawable(category.getCategoryImageResourceId());
                     Bitmap scaled = Bitmap.createScaledBitmap(resBitmap, w / 2, h / 2, true);
 
                     categoryImage.setImageBitmap(scaled);
@@ -114,9 +109,6 @@ public class CategoryCardAdapter extends RecyclerView.Adapter<CategoryCardAdapte
             } catch (Resources.NotFoundException e) {
                 Log.e(TAG, "bind: ", e);
             }
-
-
-
 
 
             categoryText.setText(category.getCategoryName());

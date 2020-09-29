@@ -2,7 +2,6 @@ package com.example.gastronomicdictionary.view;
 
 import android.content.Context;
 import android.os.Bundle;
-import android.os.Handler;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -44,7 +43,7 @@ public class WordListBottomSheetDialog extends BottomSheetDialogFragment {
         wordUzTextView.setText(wordUz);
         wordRuTextView.setText(wordRu);
         wordEnTextView.setText(wordEn);
-        
+
         wordImage.setImageResource(wordImageId);
 
         bottomSheetButton.setOnClickListener(new View.OnClickListener() {

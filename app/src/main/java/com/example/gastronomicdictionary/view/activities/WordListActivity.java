@@ -76,9 +76,6 @@ public class WordListActivity extends AppCompatActivity implements WordListAdapt
     @Override
     protected void onStart() {
         super.onStart();
-//        if(bottomSheet != null) {
-//            bottomSheet.dismiss();
-//        }
     }
 
     @Override
@@ -136,31 +133,10 @@ public class WordListActivity extends AppCompatActivity implements WordListAdapt
     @Override
     public void onBottomSheetButtonClick(ImageView wordImage, int wordImageId, String wordUz, String wordRu, String wordEn, TextView wordRuTextView, TextView wordEnTextView) {
         Intent intent = new Intent(WordListActivity.this, WordDetailsActivity.class);
-//        ActivityOptionsCompat options = ActivityOptionsCompat.makeSceneTransitionAnimation(WordListActivity.this, wordImage, ViewCompat.getTransitionName(wordImage));
         intent.putExtra("wordUz", wordUz);
         intent.putExtra("wordRu", wordRu);
         intent.putExtra("wordEn", wordEn);
         intent.putExtra("wordImageId", Integer.toString(wordImageId));
-
-
-//        if (sdk >= Build.VERSION_CODES.LOLLIPOP) {
-//            Pair wordImageAnim = Pair.create(wordImage, ViewCompat.getTransitionName(wordImage));
-//            Pair wordRuAnim = Pair.create(wordRuTextView, ViewCompat.getTransitionName(wordRuTextView));
-//            Pair wordEnAnim = Pair.create(wordEnTextView, ViewCompat.getTransitionName(wordEnTextView));
-//            ActivityOptions options = ActivityOptions.makeSceneTransitionAnimation(WordListActivity.this, wordImageAnim, wordRuAnim, wordEnAnim);
-//            startActivity(intent, options.toBundle());
-//        } else {
-//            startActivity(intent);
-//        }
         startActivity(intent);
-
-//                bottomSheet.dismiss();
-//        new Handler().postDelayed(new Runnable() {
-//            @Override
-//            public void run() {
-//            }
-//        }, 200);
     }
 }
-
-//build listener to WordDetailsActivity and call method in onStart to dismiss dialog

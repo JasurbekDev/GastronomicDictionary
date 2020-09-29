@@ -9,15 +9,11 @@ import androidx.lifecycle.ViewModelProviders;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import android.app.ActivityOptions;
 import android.content.Intent;
 import android.os.Build;
 import android.os.Bundle;
 import android.transition.ChangeBounds;
-import android.transition.Fade;
 import android.transition.Transition;
-import android.util.Pair;
-import android.view.MotionEvent;
 import android.view.View;
 import android.view.animation.DecelerateInterpolator;
 import android.widget.ImageView;
@@ -61,14 +57,6 @@ public class SearchActivity extends AppCompatActivity implements WordListAdapter
 
         bottomSheet = new WordListBottomSheetDialog();
         WordDetailsActivity.bottomSheet = bottomSheet;
-
-        List<Word> wordList = new ArrayList<>();
-//        wordList.add(new Word("Category Name 1", "Category Name 1", "Category Name 1", "Salom1", "Привет", "Hello"));
-//        wordList.add(new Word("Category Name 1", "Category Name 1", "Category Name 1", "Salom2", "Привет", "Hello"));
-//        wordList.add(new Word("Category Name 1", "Category Name 1", "Category Name 1", "Salom3", "Привет", "Hello"));
-//        wordList.add(new Word("Category Name 1", "Category Name 1", "Category Name 1", "Salom4", "Привет", "Hello"));
-//        wordList.add(new Word("Category Name 1", "Category Name 1", "Category Name 1", "Salom5", "Привет", "Hello"));
-//        wordList.add(new Word("Category Name 1", "Category Name 1", "Category Name 1", "Salom6", "Привет", "Hello"));
 
         adapter = new WordListAdapter(this, new ArrayList<Word>(), this, true, wordNotFoundTextView);
         searchActivityRecyclerView.setLayoutManager(new LinearLayoutManager(this));
@@ -176,16 +164,6 @@ public class SearchActivity extends AppCompatActivity implements WordListAdapter
         intent.putExtra("wordRu", wordRu);
         intent.putExtra("wordEn", wordEn);
         intent.putExtra("wordImageId", Integer.toString(wordImageId));
-
-//        if (sdk >= Build.VERSION_CODES.LOLLIPOP) {
-//            Pair wordImageAnim = Pair.create(wordImage, ViewCompat.getTransitionName(wordImage));
-//            Pair wordRuAnim = Pair.create(wordRuTextView, ViewCompat.getTransitionName(wordRuTextView));
-//            Pair wordEnAnim = Pair.create(wordEnTextView, ViewCompat.getTransitionName(wordEnTextView));
-////            ActivityOptions options = ActivityOptions.makeSceneTransitionAnimation(SearchActivity.this, wordImageAnim);
-//            startActivity(intent);
-//        } else {
-//            startActivity(intent);
-//        }
         startActivity(intent);
     }
 }

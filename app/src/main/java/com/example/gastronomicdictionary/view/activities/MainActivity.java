@@ -62,7 +62,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         adapter = new CategoryCardAdapter(this, new ArrayList<Category>(), this);
         categoryRecyclerView.setLayoutManager(new GridLayoutManager(this, 2));
-//        categoryRecyclerView.setLayoutManager(new LinearLayoutManager(this));
         categoryRecyclerView.setAdapter(adapter);
 
         final List<Integer> categoryImages = new ArrayList<>();
@@ -121,38 +120,17 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 }
             }
         });
-
-//        searchView.clearFocus();
     }
 
     @Override
     protected void onStart() {
         super.onStart();
-//        hideKeyboard(this, searchView.getApplicationWindowToken());
-//        toggleKeyboard(this);
     }
 
     @Override
     protected void onResume() {
         super.onResume();
     }
-
-    //    public static void hideKeyboard(Context context, IBinder token) {
-//        InputMethodManager imm = (InputMethodManager) context
-//                .getSystemService(Context.INPUT_METHOD_SERVICE);
-//        if(imm.isActive()){
-//            imm.hideSoftInputFromWindow(token,0);
-//        }
-//    }
-
-//    public static void toggleKeyboard(Context context) {
-//        InputMethodManager imm = (InputMethodManager) context
-//                .getSystemService(Context.INPUT_METHOD_SERVICE);
-//        if (imm.isActive()) {
-//            imm.toggleSoftInput(InputMethodManager.SHOW_IMPLICIT,
-//                    InputMethodManager.HIDE_NOT_ALWAYS);
-//        }
-//    }
 
     public static void setSearchViewOnClickListener(View v, View.OnClickListener listener) {
         if (v instanceof ViewGroup) {

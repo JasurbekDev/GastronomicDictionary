@@ -53,7 +53,6 @@ public class WordDetailsActivity extends AppCompatActivity {
     @Override
     protected void onStart() {
         super.onStart();
-//        bottomSheet.dismiss();
     }
 
     @Override
@@ -61,7 +60,6 @@ public class WordDetailsActivity extends AppCompatActivity {
         switch (item.getItemId()) {
             case android.R.id.home:
                 finish();
-//                super.onBackPressed();
                 break;
         }
         return super.onOptionsItemSelected(item);
@@ -69,8 +67,6 @@ public class WordDetailsActivity extends AppCompatActivity {
 
     @Override
     public void onBackPressed() {
-//        super.onBackPressed();
         finish();
-//        overridePendingTransition(R.anim.fade_in, R.anim.fade_out);
     }
 }

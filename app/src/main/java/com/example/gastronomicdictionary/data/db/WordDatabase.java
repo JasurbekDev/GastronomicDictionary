@@ -26,17 +26,19 @@ import java.util.List;
 @Database(entities = {Word.class}, version = 1)
 public abstract class WordDatabase extends RoomDatabase {
     private static WordDatabase instance;
+
     public abstract WordDao wordDao();
+
     static Context mContext;
 
 
     public static synchronized WordDatabase getInstance(Context context) {
         WordDatabase.mContext = context;
-        if(instance == null) {
-           instance = Room.databaseBuilder(context.getApplicationContext(), WordDatabase.class, "word_database")
-                   .fallbackToDestructiveMigration()
-                   .addCallback(roomCallback)
-                   .build();
+        if (instance == null) {
+            instance = Room.databaseBuilder(context.getApplicationContext(), WordDatabase.class, "word_database")
+                    .fallbackToDestructiveMigration()
+                    .addCallback(roomCallback)
+                    .build();
         }
         return instance;
     }
@@ -60,11 +62,6 @@ public abstract class WordDatabase extends RoomDatabase {
 
         @Override
         protected Void doInBackground(Void... voids) {
-//            File file = new File("C:\\Users\\555\\Desktop\\GastronomicDictionary\\app\\src\\main\\res\\assets\\example_file.json");
-//            File file = new File("/app/src/main/res/assets/example_file.json");
-//            File file = new File("C:\\Users\\555\\Desktop\\GastronomicDictionary\\app\\src\\main\\res\\raw\\example_file.json");
-//            File file = new File("file:///android_asset/example_file.json");
-//            AssetManager assetManager = getAssets();
             String jsonText = "";
             BufferedReader reader = null;
             try {
@@ -87,19 +84,13 @@ public abstract class WordDatabase extends RoomDatabase {
                 }
             }
 
-            Type type = new TypeToken<List<Word>>(){}.getType();
+            Type type = new TypeToken<List<Word>>() {
+            }.getType();
             List<Word> words = new Gson().fromJson(jsonText, type);
 
             for (Word word : words) {
                 wordDao.insert(word);
             }
-
-//            wordDao.insert(new Word("Category Name 1", "Category Name 1", "Category Name 1", "Salom", "Привет", "Hello"));
-//            wordDao.insert(new Word("Category Name 1", "Category Name 1", "Category Name 1", "Do'st", "Друг", "Friend"));
-//            wordDao.insert(new Word("Category Name 2", "Category Name 2", "Category Name 2", "Taom", "Блюдо", "Food"));
-//            wordDao.insert(new Word("Category Name 2", "Category Name 2", "Category Name 2", "Salat", "Салат", "Salad"));
-//            wordDao.insert(new Word("Category Name 3", "Category Name 3", "Category Name 3", "Hayrli kun", "Добрый день", "Good afternoon"));
-//            wordDao.insert(new Word("Category Name 3", "Category Name 3", "Category Name 3", "Ko'rganimdan xursandman!", "Рад встрече!", "Nice to meet you!"));
             return null;
         }
     }
