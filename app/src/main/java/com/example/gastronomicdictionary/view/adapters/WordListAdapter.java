@@ -23,7 +23,7 @@ import java.util.List;
 
 public class WordListAdapter extends RecyclerView.Adapter<WordListAdapter.ViewHolder> implements Filterable {
     private List<Word> wordList;
-    private List<Word> wordListAll = new ArrayList<>();
+    public List<Word> wordListAll = new ArrayList<>();
     private WordListAdapterListener wordListAdapterListener;
     private boolean isInSearchActivity;
     private TextView wordNotFoundTextView;

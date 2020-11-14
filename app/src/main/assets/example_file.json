@@ -2581,7 +2581,7 @@
   "category_en": "Cook ware and bake ware",
   "uz":  "Нон пичоғи",
   "ru":  "Хлебный нож",
-  "en":  "Bread knif"
+  "en":  "Bread knife"
  },
  {
   "category_uz": "Ошхона буюмлари ва ускуналари",
@@ -4949,7 +4949,7 @@
   "category_en": "Process",
   "uz":  "Эзмоқ",
   "ru":  "Давить, выжимать",
-  "en":  "Beat, crush"
+  "en":  "Beat or crush"
  },
  {
   "category_uz": "Жараён",
@@ -4965,7 +4965,7 @@
   "category_en": "Process",
   "uz":  "Ўрама қилиб ўрамоқ",
   "ru":  "Свернуть рулетом",
-  "en":  "Rollup …"
+  "en":  "Rollup ___"
  },
  {
   "category_uz": "Жараён",
@@ -4981,7 +4981,7 @@
   "category_en": "Process",
   "uz":  "Нимталамоқ суякдан ажратмоқ",
   "ru":  "Разрезать пополам, порубить на куски, освободить от костей",
-  "en":  "Debone, to cut"
+  "en":  "Debone or to cut"
  },
  {
   "category_uz": "Жараён",
@@ -5069,7 +5069,7 @@
   "category_en": "Process",
   "uz":  "Бошқа томонини ағдармоқ",
   "ru":  "Перевернуть",
-  "en":  "Turn, flip (pancake) over"
+  "en":  "Turn or flip (pancake) over"
  },
  {
   "category_uz": "Жараён",
@@ -5165,7 +5165,7 @@
   "category_en": "Process",
   "uz":  "Терисини …дан ажратиш",
   "ru":  "Отделить кожицу от…",
-  "en":  "Separate the skin from the..."
+  "en":  "Separate the skin from the ___"
  },
  {
   "category_uz": "Жараён",
@@ -5173,7 +5173,7 @@
   "category_en": "Process",
   "uz":  "…билан ишқаланг (артинг)",
   "ru":  "Потереть… с",
-  "en":  "Rub… with"
+  "en":  "Rub ___ with"
  },
  {
   "category_uz": "Жараён",
@@ -5181,7 +5181,7 @@
   "category_en": "Process",
   "uz":  "…нинг ҳамма ерига",
   "ru":  "По всему…",
-  "en":  "All over the…"
+  "en":  "All over the ___"
  },
  {
   "category_uz": "Жараён",
@@ -5325,7 +5325,7 @@
   "category_en": "Process",
   "uz":  "Панировкага белаб олмоқ (қопламоқ)",
   "ru":  "Панировать",
-  "en":  "Сoat"
+  "en":  "Coat"
  },
  {
   "category_uz": "Жараён",
@@ -6061,7 +6061,7 @@
   "category_en": "Sorting",
   "uz":  "Ичини тозаламоқ (булғор қалампири ва б.)",
   "ru":  "Очистить внутренность чего-либо",
-  "en":  "Scoop out …"
+  "en":  "Scoop out ___"
  },
  {
   "category_uz": "Сепиш, қуйиш ва солишлар",
